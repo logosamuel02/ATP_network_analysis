@@ -1,0 +1,2578 @@
+Source	Target	Weight
+Taylor Fritz	Matteo Berrettini	1
+Frances Tiafoe	Lorenzo Musetti	3
+Taylor Fritz	Hubert Hurkacz	1
+Frances Tiafoe	Kacper Zuk	1
+Stefanos Tsitsipas	Matteo Berrettini	1
+Lorenzo Musetti	Stefanos Sakellaridis	1
+Stefanos Tsitsipas	Borna Coric	3
+Borna Gojo	Stefanos Sakellaridis	1
+Matteo Berrettini	Hubert Hurkacz	1
+Lorenzo Musetti	Daniel Michalski	1
+Cameron Norrie	Taylor Fritz	2
+Frances Tiafoe	Daniel Evans	3
+Stefanos Tsitsipas	David Goffin	1
+Stefanos Sakellaridis	Zizou Bergs	1
+Stefanos Tsitsipas	Grigor Dimitrov	2
+Dimitar Kuzmanov	Michail Pervolarakis	1
+Grigor Dimitrov	David Goffin	1
+Dimitar Kuzmanov	Zizou Bergs	1
+Hubert Hurkacz	Stan Wawrinka	1
+Marc Andrea Huesler	Daniel Michalski	1
+Hubert Hurkacz	Alexander Bublik	3
+Timofey Skatov	Daniel Michalski	1
+Stan Wawrinka	Alexander Bublik	2
+Marc Andrea Huesler	Timofey Skatov	1
+Taylor Fritz	Alexander Zverev	1
+Frances Tiafoe	Oscar Otte	1
+Taylor Fritz	Jiri Lehecka	3
+Frances Tiafoe	Tomas Machac	1
+Jiri Lehecka	Alexander Zverev	2
+Oscar Otte	Dalibor Svrcina	1
+Alex De Minaur	Rafael Nadal	1
+Jason Kubler	Albert Ramos	1
+Cameron Norrie	Rafael Nadal	1
+Daniel Evans	Albert Ramos	1
+Cameron Norrie	Alex De Minaur	2
+Jason Kubler	Daniel Evans	1
+Matteo Berrettini	Thiago Monteiro	1
+Lorenzo Musetti	Felipe Meligeni Alves	1
+Matteo Berrettini	Casper Ruud	1
+Lorenzo Musetti	Viktor Durasovic	1
+Casper Ruud	Thiago Monteiro	1
+Felipe Meligeni Alves	Viktor Durasovic	1
+Borna Coric	Arthur Rinderknech	2
+Borna Gojo	Adrian Mannarino	1
+Arthur Rinderknech	Francisco Cerundolo	1
+Adrian Mannarino	Federico Coria	1
+Borna Coric	Francisco Cerundolo	1
+Borna Gojo	Federico Coria	1
+Novak Djokovic	Sebastian Korda	1
+Novak Djokovic	Daniil Medvedev	3
+Sebastian Korda	Yoshihito Nishioka	1
+Novak Djokovic	Denis Shapovalov	1
+Daniil Medvedev	Karen Khachanov	3
+Sebastian Korda	Jannik Sinner	1
+Yoshihito Nishioka	Alexei Popyrin	1
+Novak Djokovic	Quentin Halys	1
+Denis Shapovalov	Roman Safiullin	2
+Daniil Medvedev	Miomir Kecmanovic	1
+Karen Khachanov	Jack Draper	2
+Jannik Sinner	Thanasi Kokkinakis	2
+Sebastian Korda	Roberto Bautista Agut	1
+Yoshihito Nishioka	Mackenzie Mcdonald	3
+Alexei Popyrin	Marcos Giron	1
+Novak Djokovic	Constant Lestienne	1
+Quentin Halys	Jordan Thompson	1
+Roman Safiullin	Mikael Ymer	1
+Denis Shapovalov	Rinky Hijikata	1
+Daniil Medvedev	Lorenzo Sonego	2
+Miomir Kecmanovic	Christopher Oconnell	1
+Jack Draper	Soon Woo Kwon	2
+Karen Khachanov	Pedro Cachin	1
+Jannik Sinner	Kyle Edmund	2
+Thanasi Kokkinakis	Maxime Cressy	1
+Sebastian Korda	Andy Murray	1
+Roberto Bautista Agut	Andrey Rublev	2
+Yoshihito Nishioka	Holger Rune	1
+Mackenzie Mcdonald	Daniel Elahi Galan	2
+Marcos Giron	Richard Gasquet	1
+Alexei Popyrin	Felix Auger Aliassime	2
+Tallon Griekspoor	Benjamin Bonzi	1
+Tallon Griekspoor	Aslan Karatsev	1
+Benjamin Bonzi	Botic Van De Zandschulp	1
+Tallon Griekspoor	Marin Cilic	1
+Aslan Karatsev	Pedro Martinez	1
+Benjamin Bonzi	Filip Krajinovic	1
+Botic Van De Zandschulp	Maximilian Marterer	1
+Marin Cilic	Roberto Carballes Baena	1
+Tallon Griekspoor	Marco Cecchinato	1
+Pedro Martinez	Sebastian Baez	1
+Aslan Karatsev	Tim Van Rijthoven	1
+Filip Krajinovic	Michael Mmoh	1
+Benjamin Bonzi	Emil Ruusuvuori	1
+Maximilian Marterer	Laslo Djere	1
+Botic Van De Zandschulp	Flavio Cobolli	1
+Roberto Carballes Baena	Bernabe Zapata Miralles	3
+Marco Cecchinato	Nikoloz Basilashvili	1
+Tallon Griekspoor	Jaume Munar	2
+Pedro Martinez	Ramkumar Ramanathan	1
+Tim Van Rijthoven	Radu Albot	1
+Aslan Karatsev	Pablo Andujar	1
+Filip Krajinovic	Sumit Nagal	1
+Michael Mmoh	Manas Dhamne	1
+Benjamin Bonzi	Chun Hsin Tseng	1
+Laslo Djere	Alex Molcan	2
+Maximilian Marterer	Elias Ymer	1
+Flavio Cobolli	Sasi Kumar Mukund	1
+Richard Gasquet	Cameron Norrie	1
+Richard Gasquet	Constant Lestienne	1
+Cameron Norrie	Jenson Brooksby	1
+Constant Lestienne	Laslo Djere	2
+Richard Gasquet	David Goffin	1
+Jenson Brooksby	Quentin Halys	1
+Cameron Norrie	Marcos Giron	1
+Laslo Djere	Casper Ruud	2
+Constant Lestienne	Gregoire Barrere	1
+Richard Gasquet	Joao Sousa	1
+David Goffin	Christopher Eubanks	1
+Quentin Halys	Ben Shelton	1
+Jenson Brooksby	Diego Schwartzman	1
+Marcos Giron	J J Wolf	1
+Cameron Norrie	Jiri Lehecka	2
+Laslo Djere	Jaume Munar	1
+Constant Lestienne	Pedro Cachin	1
+Gregoire Barrere	John Isner	1
+Richard Gasquet	Kiranpal Pannu	1
+Christopher Eubanks	Ugo Humbert	1
+David Goffin	Alexander Bublik	2
+Ben Shelton	Sebastian Baez	1
+Quentin Halys	Alex Molcan	1
+Jenson Brooksby	Fabio Fognini	1
+J J Wolf	Adrian Mannarino	2
+Marcos Giron	Federico Coria	1
+Jiri Lehecka	Thiago Monteiro	1
+Soon Woo Kwon	Roberto Bautista Agut	1
+Roberto Bautista Agut	Thanasi Kokkinakis	1
+Thanasi Kokkinakis	Miomir Kecmanovic	1
+Roberto Bautista Agut	Alejandro Davidovich Fokina	1
+Soon Woo Kwon	Mikael Ymer	1
+Thanasi Kokkinakis	Andrey Rublev	1
+Miomir Kecmanovic	Jason Kubler	1
+Roberto Bautista Agut	Robin Haase	1
+Alejandro Davidovich Fokina	John Millman	1
+Jack Draper	Tommy Paul	1
+Karen Khachanov	Marc Andrea Huesler	1
+Mikael Ymer	Mackenzie Mcdonald	2
+Soon Woo Kwon	Pablo Carreno Busta	1
+Thanasi Kokkinakis	Alexei Popyrin	1
+Jason Kubler	Tomas Martin Etcheverry	1
+Miomir Kecmanovic	Kyle Edmund	1
+Robin Haase	Benjamin Bonzi	1
+John Millman	Albert Ramos	1
+Alejandro Davidovich Fokina	Brandon Nakashima	2
+Tommy Paul	Christopher Oconnell	1
+Jack Draper	Lorenzo Sonego	1
+Marc Andrea Huesler	Arthur Rinderknech	1
+Mackenzie Mcdonald	Daniel Evans	1
+Mikael Ymer	Emil Ruusuvuori	2
+Soon Woo Kwon	Tomas Machac	1
+Rafael Nadal	Jack Draper	1
+Mackenzie Mcdonald	Brandon Nakashima	2
+Dalibor Svrcina	Jaume Munar	1
+Yoshihito Nishioka	Mikael Ymer	1
+Karen Khachanov	Bernabe Zapata Miralles	1
+Jason Kubler	Sebastian Baez	1
+Juncheng Shang	Oscar Otte	1
+Frances Tiafoe	Daniel Altmaier	2
+Hubert Hurkacz	Pedro Martinez	1
+Lorenzo Sonego	Nuno Borges	1
+Taro Daniel	Ernesto Escobedo	1
+Denis Shapovalov	Dusan Lajovic	1
+Sebastian Korda	Cristian Garin	1
+Yosuke Watanuki	Arthur Rinderknech	1
+John Millman	Marc Andrea Huesler	1
+Daniil Medvedev	Marcos Giron	2
+Stefanos Tsitsipas	Quentin Halys	1
+Rinky Hijikata	Yannick Hanfmann	1
+Tallon Griekspoor	Pavel Kotov	2
+Botic Van De Zandschulp	Ilya Ivashka	3
+Lloyd Harris	Lorenzo Musetti	1
+Marton Fucsovics	Federico Coria	1
+Tomas Martin Etcheverry	Gregoire Barrere	1
+Cameron Norrie	Luca Van Assche	1
+Constant Lestienne	Thiago Monteiro	1
+Christopher Eubanks	Soon Woo Kwon	2
+Jiri Lehecka	Borna Coric	1
+Francisco Cerundolo	Guido Pella	1
+Corentin Moutet	Yibing Wu	2
+Alex Molcan	Stan Wawrinka	1
+Felix Auger Aliassime	Vasek Pospisil	1
+Andrey Rublev	Dominic Thiem	1
+Emil Ruusuvuori	Max Purcell	1
+Jeremy Chardy	Daniel Elahi Galan	1
+Daniel Evans	Facundo Bagnis	1
+Denis Kudla	Roman Safiullin	1
+Ugo Humbert	Richard Gasquet	1
+Maxime Cressy	Albert Ramos	1
+Holger Rune	Filip Krajinovic	1
+Pablo Carreno Busta	Pedro Cachin	1
+Benjamin Bonzi	Mattia Bellucci	1
+Adrian Mannarino	John Isner	1
+Alex De Minaur	Yu Hsiou Hsu	1
+Grigor Dimitrov	Aslan Karatsev	2
+Laslo Djere	Zizou Bergs	2
+Enzo Couacaud	Hugo Dellien	1
+Novak Djokovic	Roberto Carballes Baena	1
+Taylor Fritz	Nikoloz Basilashvili	1
+Alexei Popyrin	Chun Hsin Tseng	1
+Ben Shelton	Zhizhen Zhang	1
+Nicolas Jarry	Miomir Kecmanovic	1
+Diego Schwartzman	Oleksii Krutykh	1
+J J Wolf	Jordan Thompson	2
+Michael Mmoh	Laurent Lokoli	1
+Alexander Zverev	Juan Pablo Varillas	1
+Andy Murray	Matteo Berrettini	1
+Thanasi Kokkinakis	Fabio Fognini	2
+Brandon Holt	Aleksandar Vukic	1
+Roberto Bautista Agut	Joao Sousa	1
+Alejandro Davidovich Fokina	Alexander Bublik	1
+Tommy Paul	Jan Lennard Struff	3
+Jenson Brooksby	Christopher Oconnell	1
+Casper Ruud	Tomas Machac	1
+Mackenzie Mcdonald	Rafael Nadal	1
+Yoshihito Nishioka	Dalibor Svrcina	1
+Karen Khachanov	Jason Kubler	1
+Frances Tiafoe	Juncheng Shang	2
+Hubert Hurkacz	Lorenzo Sonego	1
+Denis Shapovalov	Taro Daniel	1
+Sebastian Korda	Yosuke Watanuki	1
+Daniil Medvedev	John Millman	1
+Stefanos Tsitsipas	Rinky Hijikata	2
+Tallon Griekspoor	Botic Van De Zandschulp	1
+Marton Fucsovics	Lloyd Harris	1
+Jannik Sinner	Tomas Martin Etcheverry	1
+Cameron Norrie	Constant Lestienne	1
+Jiri Lehecka	Christopher Eubanks	1
+Francisco Cerundolo	Corentin Moutet	1
+Felix Auger Aliassime	Alex Molcan	1
+Andrey Rublev	Emil Ruusuvuori	2
+Daniel Evans	Jeremy Chardy	1
+Ugo Humbert	Denis Kudla	1
+Holger Rune	Maxime Cressy	3
+Benjamin Bonzi	Pablo Carreno Busta	1
+Alex De Minaur	Adrian Mannarino	2
+Grigor Dimitrov	Laslo Djere	1
+Novak Djokovic	Enzo Couacaud	1
+Alexei Popyrin	Taylor Fritz	1
+Ben Shelton	Nicolas Jarry	1
+J J Wolf	Diego Schwartzman	1
+Michael Mmoh	Alexander Zverev	1
+Andy Murray	Thanasi Kokkinakis	1
+Roberto Bautista Agut	Brandon Holt	1
+Tommy Paul	Alejandro Davidovich Fokina	3
+Jenson Brooksby	Casper Ruud	1
+Karen Khachanov	Frances Tiafoe	1
+Hubert Hurkacz	Denis Shapovalov	1
+Sebastian Korda	Daniil Medvedev	2
+Stefanos Tsitsipas	Tallon Griekspoor	1
+Jannik Sinner	Marton Fucsovics	2
+Felix Auger Aliassime	Francisco Cerundolo	3
+Andrey Rublev	Daniel Evans	1
+Holger Rune	Ugo Humbert	1
+Alex De Minaur	Benjamin Bonzi	2
+Novak Djokovic	Grigor Dimitrov	3
+Ben Shelton	Alexei Popyrin	1
+J J Wolf	Michael Mmoh	2
+Roberto Bautista Agut	Andy Murray	1
+Tommy Paul	Jenson Brooksby	1
+Karen Khachanov	Yoshihito Nishioka	2
+Sebastian Korda	Hubert Hurkacz	3
+Stefanos Tsitsipas	Jannik Sinner	3
+Jiri Lehecka	Felix Auger Aliassime	1
+Andrey Rublev	Holger Rune	2
+Novak Djokovic	Alex De Minaur	1
+Ben Shelton	J J Wolf	2
+Tommy Paul	Roberto Bautista Agut	1
+Karen Khachanov	Sebastian Korda	2
+Stefanos Tsitsipas	Jiri Lehecka	1
+Novak Djokovic	Andrey Rublev	3
+Tommy Paul	Ben Shelton	3
+Stefanos Tsitsipas	Karen Khachanov	3
+Novak Djokovic	Tommy Paul	1
+Novak Djokovic	Stefanos Tsitsipas	1
+Sebastian Baez	Federico Coria	2
+Sebastian Baez	Hugo Dellien	1
+Federico Coria	Albert Ramos	1
+Hugo Dellien	Juan Manuel Cerundolo	1
+Sebastian Baez	Tomas Barrios Vera	2
+Albert Ramos	Joao Sousa	1
+Federico Coria	Francisco Cerundolo	2
+Juan Manuel Cerundolo	Diego Schwartzman	1
+Hugo Dellien	Guido Pella	1
+Sebastian Baez	Luciano Darderi	1
+Tomas Barrios Vera	Bernabe Zapata Miralles	1
+Joao Sousa	Cristian Garin	1
+Albert Ramos	Dusan Lajovic	1
+Federico Coria	Marco Cecchinato	1
+Francisco Cerundolo	Federico Delbonis	1
+Juan Manuel Cerundolo	Pablo Andujar	1
+Guido Pella	Andrea Vavassori	1
+Hugo Dellien	Pedro Cachin	1
+Luciano Darderi	Hugo Gaston	1
+Tomas Barrios Vera	Daniel Elahi Galan	1
+Cristian Garin	Pedro Martinez	2
+Joao Sousa	Tomas Martin Etcheverry	1
+Dusan Lajovic	Juan Pablo Varillas	1
+Federico Coria	Thiago Monteiro	1
+Marco Cecchinato	Facundo Bagnis	2
+Federico Delbonis	Alejandro Tabilo	1
+Yibing Wu	John Isner	1
+Yibing Wu	Taylor Fritz	2
+John Isner	J J Wolf	1
+Taylor Fritz	Marcos Giron	2
+Yibing Wu	Adrian Mannarino	1
+John Isner	Emilio Gomez	1
+J J Wolf	Frances Tiafoe	1
+Taylor Fritz	Jack Sock	1
+Marcos Giron	Oscar Otte	1
+Yibing Wu	Denis Shapovalov	1
+Adrian Mannarino	Jordan Thompson	4
+John Isner	Daniel Altmaier	1
+Emilio Gomez	Miomir Kecmanovic	1
+J J Wolf	Radu Albot	2
+Frances Tiafoe	Mackenzie Mcdonald	1
+Jack Sock	Ilya Ivashka	1
+Oscar Otte	Christopher Eubanks	1
+Marcos Giron	Alex Rybakov	1
+Yibing Wu	Michael Mmoh	1
+Jordan Thompson	Denis Kudla	2
+Adrian Mannarino	Steve Johnson	1
+John Isner	Chun Hsin Tseng	1
+Daniel Altmaier	Zachary Svajda	1
+Emilio Gomez	Gabriel Diallo	1
+J J Wolf	Brandon Holt	1
+Radu Albot	Liam Krall	1
+Mackenzie Mcdonald	Fernando Verdasco	1
+Jannik Sinner	Maxime Cressy	1
+Jannik Sinner	Arthur Fils	2
+Holger Rune	Gregoire Barrere	1
+Maxime Cressy	Borna Coric	1
+Arthur Fils	Quentin Halys	1
+Jannik Sinner	Lorenzo Sonego	4
+Holger Rune	Marc Andrea Huesler	1
+Gregoire Barrere	Nikoloz Basilashvili	1
+Maxime Cressy	Emil Ruusuvuori	1
+Quentin Halys	Alejandro Davidovich Fokina	1
+Arthur Fils	Roberto Bautista Agut	1
+Lorenzo Sonego	Filip Krajinovic	1
+Marc Andrea Huesler	Luca Van Assche	1
+Nikoloz Basilashvili	Constant Lestienne	1
+Gregoire Barrere	Alexander Bublik	3
+Arthur Rinderknech	Luca Nardi	1
+Maxime Cressy	Antoine Bellier	1
+Alejandro Davidovich Fokina	Ugo Humbert	1
+Quentin Halys	Clement Chidekh	1
+Arthur Fils	Richard Gasquet	1
+Lorenzo Sonego	Benjamin Bonzi	1
+Filip Krajinovic	Aslan Karatsev	1
+Marton Fucsovics	Geoffrey Blancaneaux	1
+Taylor Fritz	Miomir Kecmanovic	1
+Taylor Fritz	Mackenzie Mcdonald	2
+Miomir Kecmanovic	Radu Albot	1
+Taylor Fritz	Adrian Mannarino	2
+Mackenzie Mcdonald	Michael Mmoh	1
+Miomir Kecmanovic	Marcos Giron	1
+Radu Albot	Tommy Paul	1
+Taylor Fritz	Emilio Gomez	1
+Michael Mmoh	Denis Shapovalov	1
+Marcos Giron	Matija Pecotic	1
+Miomir Kecmanovic	Nuno Borges	1
+Radu Albot	Aleksandar Vukic	1
+Tommy Paul	Denis Kudla	1
+Emilio Gomez	Tung Lin Wu	1
+Adrian Mannarino	Daniel Altmaier	1
+J J Wolf	Ilya Ivashka	1
+Michael Mmoh	Aleksandar Kovacevic	1
+Mackenzie Mcdonald	Taro Daniel	1
+Yoshihito Nishioka	Oscar Otte	1
+Marcos Giron	Ben Shelton	2
+Matija Pecotic	Jack Sock	1
+Nuno Borges	Steve Johnson	1
+Aleksandar Vukic	Christopher Eubanks	2
+Radu Albot	Fernando Verdasco	1
+Carlos Alcaraz	Cameron Norrie	2
+Carlos Alcaraz	Bernabe Zapata Miralles	1
+Cameron Norrie	Juan Pablo Varillas	1
+Carlos Alcaraz	Dusan Lajovic	3
+Bernabe Zapata Miralles	Francisco Cerundolo	2
+Juan Pablo Varillas	Lorenzo Musetti	2
+Cameron Norrie	Tomas Martin Etcheverry	1
+Carlos Alcaraz	Laslo Djere	1
+Dusan Lajovic	Camilo Ugo Carabelli	2
+Bernabe Zapata Miralles	Diego Schwartzman	2
+Francisco Cerundolo	Jaume Munar	2
+Juan Pablo Varillas	Dominic Thiem	2
+Lorenzo Musetti	Pedro Cachin	1
+Tomas Martin Etcheverry	Roberto Carballes Baena	1
+Cameron Norrie	Facundo Diaz Acosta	1
+Laslo Djere	Fabio Fognini	1
+Camilo Ugo Carabelli	Daniel Elahi Galan	1
+Dusan Lajovic	Sebastian Baez	1
+Bernabe Zapata Miralles	Pedro Martinez	1
+Jaume Munar	Guido Pella	1
+Francisco Cerundolo	Yannick Hanfmann	3
+Dominic Thiem	Alex Molcan	1
+Juan Pablo Varillas	Joao Sousa	1
+Pedro Cachin	Thiago Monteiro	1
+Roberto Carballes Baena	Albert Ramos	2
+Tomas Martin Etcheverry	Hugo Dellien	1
+Facundo Diaz Acosta	Federico Coria	1
+Daniil Medvedev	Jannik Sinner	5
+Jannik Sinner	Tallon Griekspoor	2
+Daniil Medvedev	Grigor Dimitrov	3
+Jannik Sinner	Stan Wawrinka	3
+Tallon Griekspoor	Gijs Brouwer	1
+Daniil Medvedev	Felix Auger Aliassime	2
+Grigor Dimitrov	Alex De Minaur	2
+Stan Wawrinka	Richard Gasquet	2
+Gijs Brouwer	Holger Rune	1
+Tallon Griekspoor	Alexander Zverev	2
+Daniil Medvedev	Botic Van De Zandschulp	1
+Felix Auger Aliassime	Gregoire Barrere	1
+Grigor Dimitrov	Hubert Hurkacz	2
+Alex De Minaur	Maxime Cressy	1
+Stefanos Tsitsipas	Emil Ruusuvuori	1
+Jannik Sinner	Benjamin Bonzi	1
+Richard Gasquet	Pablo Carreno Busta	1
+Holger Rune	Constant Lestienne	1
+Gijs Brouwer	Marc Andrea Huesler	1
+Tallon Griekspoor	Mikael Ymer	2
+Alexander Zverev	Soon Woo Kwon	1
+Daniil Medvedev	Alejandro Davidovich Fokina	2
+Botic Van De Zandschulp	Quentin Halys	1
+Gregoire Barrere	David Goffin	1
+Felix Auger Aliassime	Lorenzo Sonego	2
+Hubert Hurkacz	Roberto Bautista Agut	2
+Maxime Cressy	Tim Van Rijthoven	1
+Alex De Minaur	Andrey Rublev	2
+Daniil Medvedev	Andy Murray	1
+Andy Murray	Jiri Lehecka	1
+Jiri Lehecka	Andrey Rublev	2
+Andy Murray	Alexandre Muller	1
+Daniil Medvedev	Christopher Oconnell	2
+Felix Auger Aliassime	Alejandro Davidovich Fokina	1
+Andrey Rublev	Tallon Griekspoor	2
+Jiri Lehecka	Emil Ruusuvuori	2
+Andy Murray	Alexander Zverev	1
+Alexandre Muller	Botic Van De Zandschulp	1
+Christopher Oconnell	Roberto Bautista Agut	1
+Daniil Medvedev	Liam Broady	1
+Alejandro Davidovich Fokina	Soon Woo Kwon	2
+Felix Auger Aliassime	Jason Kubler	1
+Tallon Griekspoor	Quentin Halys	1
+Jiri Lehecka	Damir Dzumhur	1
+Emil Ruusuvuori	Daniel Evans	1
+Andy Murray	Lorenzo Sonego	2
+Alexandre Muller	Nikoloz Basilashvili	1
+Roberto Bautista Agut	Marton Fucsovics	1
+Christopher Oconnell	Fernando Verdasco	1
+Liam Broady	Oleksii Krutykh	1
+Alejandro Davidovich Fokina	Constant Lestienne	1
+Soon Woo Kwon	Abedallah Shelbayh	1
+Jason Kubler	Aslan Karatsev	1
+Carlos Alcaraz	Nicolas Jarry	2
+Cameron Norrie	Bernabe Zapata Miralles	1
+Nicolas Jarry	Sebastian Baez	1
+Bernabe Zapata Miralles	Albert Ramos	1
+Cameron Norrie	Hugo Dellien	1
+Carlos Alcaraz	Fabio Fognini	1
+Dusan Lajovic	Laslo Djere	1
+Nicolas Jarry	Pedro Martinez	1
+Sebastian Baez	Juan Pablo Varillas	2
+Albert Ramos	Daniel Elahi Galan	1
+Hugo Dellien	Alex Molcan	1
+Cameron Norrie	Thiago Monteiro	1
+Carlos Alcaraz	Mateus Alves	1
+Fabio Fognini	Tomas Barrios Vera	1
+Laslo Djere	Facundo Bagnis	1
+Dusan Lajovic	Diego Schwartzman	1
+Nicolas Jarry	Lorenzo Musetti	1
+Juan Pablo Varillas	Hugo Gaston	2
+Sebastian Baez	Thomaz Bellucci	1
+Albert Ramos	Tomas Martin Etcheverry	1
+Daniel Elahi Galan	Pedro Cachin	1
+Bernabe Zapata Miralles	Jaume Munar	1
+Francisco Cerundolo	Roberto Carballes Baena	1
+Alex Molcan	Joao Fonseca	1
+Hugo Dellien	Joao Sousa	1
+Thiago Monteiro	Dominic Thiem	1
+Cameron Norrie	Juan Manuel Cerundolo	1
+Hubert Hurkacz	Benjamin Bonzi	1
+Benjamin Bonzi	Arthur Fils	1
+Hubert Hurkacz	Mikael Ymer	1
+Alexander Bublik	Grigor Dimitrov	2
+Arthur Fils	Stan Wawrinka	1
+Hubert Hurkacz	Leandro Riedi	1
+Mikael Ymer	David Goffin	1
+Grigor Dimitrov	Gijs Brouwer	1
+Benjamin Bonzi	Maxime Cressy	1
+Alex De Minaur	Alexander Ritschard	1
+Leandro Riedi	Arthur Rinderknech	1
+Mikael Ymer	Radu Albot	1
+David Goffin	Lukas Klein	1
+Gijs Brouwer	Elias Ymer	1
+Alexander Bublik	Filip Krajinovic	1
+Gregoire Barrere	Marc Andrea Huesler	1
+Maxime Cressy	Geoffrey Blancaneaux	1
+Benjamin Bonzi	Luca Van Assche	1
+Alexander Ritschard	Pablo Andujar	1
+Richard Gasquet	Laurent Lokoli	1
+Stan Wawrinka	Zizou Bergs	1
+Arthur Fils	Roman Safiullin	1
+Alex De Minaur	Tommy Paul	2
+Tommy Paul	Taylor Fritz	1
+Alex De Minaur	Holger Rune	2
+Tommy Paul	Mackenzie Mcdonald	2
+Taylor Fritz	Frances Tiafoe	1
+Holger Rune	Matteo Berrettini	2
+Alex De Minaur	Taro Daniel	1
+Tommy Paul	Michael Mmoh	1
+Taylor Fritz	Denis Shapovalov	2
+Frances Tiafoe	Feliciano Lopez	1
+Matteo Berrettini	Elias Ymer	1
+Holger Rune	Nuno Borges	1
+Alex De Minaur	Jacopo Berrettini	1
+Taro Daniel	Casper Ruud	1
+Mackenzie Mcdonald	Luciano Darderi	1
+Brandon Nakashima	Daniel Altmaier	1
+Michael Mmoh	Marcos Giron	2
+Tommy Paul	Emilio Gomez	1
+Taylor Fritz	John Isner	1
+Denis Shapovalov	Miomir Kecmanovic	1
+Feliciano Lopez	Christopher Eubanks	1
+Frances Tiafoe	Yoshihito Nishioka	1
+Elias Ymer	Adrian Mannarino	1
+Matteo Berrettini	Alex Molcan	1
+Nuno Borges	Nick Chappell	1
+Holger Rune	Ben Shelton	1
+Alex De Minaur	Rodrigo Pacheco Mendez	1
+Jacopo Berrettini	Oscar Otte	1
+Taro Daniel	J J Wolf	1
+Casper Ruud	Guido Andreozzi	1
+Daniil Medvedev	Andrey Rublev	3
+Andrey Rublev	Alexander Zverev	4
+Novak Djokovic	Hubert Hurkacz	3
+Daniil Medvedev	Borna Coric	1
+Alexander Zverev	Lorenzo Sonego	1
+Andrey Rublev	Botic Van De Zandschulp	2
+Novak Djokovic	Tallon Griekspoor	2
+Hubert Hurkacz	Pavel Kotov	1
+Daniil Medvedev	Alexander Bublik	1
+Borna Coric	Thanasi Kokkinakis	1
+Alexander Zverev	Christopher Oconnell	2
+Botic Van De Zandschulp	Mikael Ymer	2
+Andrey Rublev	Alejandro Davidovich Fokina	2
+Novak Djokovic	Tomas Machac	1
+Tallon Griekspoor	Constant Lestienne	1
+Pavel Kotov	Alexei Popyrin	1
+Hubert Hurkacz	Alexander Shevchenko	1
+Daniil Medvedev	Matteo Arnaldi	2
+Alexander Bublik	Alexandar Lazarov	1
+Thanasi Kokkinakis	Quentin Halys	1
+Borna Coric	Daniel Evans	1
+Christopher Oconnell	Emil Ruusuvuori	1
+Lorenzo Sonego	Marc Andrea Huesler	1
+Felix Auger Aliassime	Maxime Cressy	1
+Botic Van De Zandschulp	Karen Khachanov	1
+Mikael Ymer	Francesco Passaro	1
+Alejandro Davidovich Fokina	Malek Jaziri	1
+Andrey Rublev	Filip Krajinovic	1
+Nicolas Jarry	Tomas Martin Etcheverry	1
+Nicolas Jarry	Jaume Munar	1
+Tomas Martin Etcheverry	Sebastian Baez	2
+Jaume Munar	Thiago Monteiro	1
+Nicolas Jarry	Yannick Hanfmann	2
+Sebastian Baez	Laslo Djere	2
+Tomas Martin Etcheverry	Dusan Lajovic	1
+Jaume Munar	Lorenzo Musetti	2
+Thiago Monteiro	Marco Cecchinato	1
+Nicolas Jarry	Diego Schwartzman	2
+Yannick Hanfmann	Roberto Carballes Baena	1
+Laslo Djere	Riccardo Bonadio	1
+Sebastian Baez	Cristian Garin	2
+Dusan Lajovic	Juan Manuel Cerundolo	1
+Tomas Martin Etcheverry	Francisco Cerundolo	1
+Jaume Munar	Alejandro Tabilo	1
+Thiago Monteiro	Albert Ramos	1
+Nicolas Jarry	Juan Pablo Varillas	1
+Yannick Hanfmann	Pedro Martinez	1
+Roberto Carballes Baena	Carlos Taberner	1
+Laslo Djere	Joao Sousa	1
+Riccardo Bonadio	Daniel Elahi Galan	1
+Cristian Garin	Dominic Thiem	1
+Juan Manuel Cerundolo	Pedro Cachin	1
+Tomas Martin Etcheverry	Fabio Fognini	1
+Carlos Alcaraz	Daniil Medvedev	4
+Carlos Alcaraz	Jannik Sinner	3
+Daniil Medvedev	Frances Tiafoe	1
+Carlos Alcaraz	Felix Auger Aliassime	1
+Jannik Sinner	Taylor Fritz	1
+Frances Tiafoe	Cameron Norrie	1
+Carlos Alcaraz	Jack Draper	1
+Felix Auger Aliassime	Tommy Paul	1
+Taylor Fritz	Marton Fucsovics	3
+Daniil Medvedev	Alexander Zverev	6
+Alejandro Davidovich Fokina	Cristian Garin	1
+Cameron Norrie	Andrey Rublev	2
+Frances Tiafoe	Alejandro Tabilo	1
+Carlos Alcaraz	Tallon Griekspoor	1
+Jack Draper	Andy Murray	1
+Tommy Paul	Hubert Hurkacz	1
+Taylor Fritz	Sebastian Baez	2
+Marton Fucsovics	Alex Molcan	1
+Jannik Sinner	Adrian Mannarino	1
+Stan Wawrinka	Holger Rune	1
+Daniil Medvedev	Ilya Ivashka	1
+Alexander Zverev	Emil Ruusuvuori	1
+Alejandro Davidovich Fokina	Karen Khachanov	2
+Cristian Garin	Casper Ruud	2
+Andrey Rublev	Ugo Humbert	3
+Cameron Norrie	Taro Daniel	1
+Frances Tiafoe	Jason Kubler	2
+Alejandro Tabilo	Jordan Thompson	1
+Carlos Alcaraz	Thanasi Kokkinakis	1
+Tallon Griekspoor	Guido Pella	1
+Jack Draper	Daniel Evans	1
+Andy Murray	Radu Albot	1
+Hubert Hurkacz	Alexei Popyrin	2
+Francisco Cerundolo	Jack Sock	1
+Felix Auger Aliassime	Pedro Martinez	1
+Taylor Fritz	Ben Shelton	1
+Sebastian Baez	Rinky Hijikata	1
+Alex Molcan	Borna Coric	1
+Marton Fucsovics	Alex De Minaur	2
+Jannik Sinner	Richard Gasquet	2
+Adrian Mannarino	Lorenzo Musetti	1
+Stan Wawrinka	Miomir Kecmanovic	1
+Holger Rune	Mackenzie Mcdonald	2
+Daniil Medvedev	Brandon Nakashima	1
+Emil Ruusuvuori	Roberto Bautista Agut	2
+Alexander Zverev	Pedro Cachin	1
+Karen Khachanov	Oscar Otte	1
+Alejandro Davidovich Fokina	Yibing Wu	1
+Cristian Garin	Yoshihito Nishioka	1
+Casper Ruud	Diego Schwartzman	1
+Ugo Humbert	Denis Shapovalov	1
+Taro Daniel	Matteo Berrettini	1
+Cameron Norrie	Tung Lin Wu	1
+Frances Tiafoe	Marcos Giron	1
+Jason Kubler	Grigor Dimitrov	1
+Alejandro Tabilo	Maxime Cressy	1
+Jordan Thompson	Stefanos Tsitsipas	1
+Thanasi Kokkinakis	Brandon Holt	1
+Guido Pella	Thiago Monteiro	2
+Jack Draper	Leandro Riedi	1
+Andy Murray	Tomas Martin Etcheverry	2
+Alexei Popyrin	Zhizhen Zhang	1
+Jan Lennard Struff	Quentin Halys	1
+Jack Sock	Gregoire Barrere	1
+Pedro Martinez	Marc Andrea Huesler	1
+Ben Shelton	Fabio Fognini	1
+Rinky Hijikata	Mikael Ymer	1
+Alex Molcan	Albert Ramos	1
+Marton Fucsovics	J J Wolf	1
+Richard Gasquet	Borna Gojo	1
+Adrian Mannarino	Dominic Thiem	1
+Stan Wawrinka	Aleksandar Vukic	1
+Mackenzie Mcdonald	Filip Krajinovic	1
+Brandon Nakashima	John Isner	1
+Ilya Ivashka	Roman Safiullin	1
+Emil Ruusuvuori	Constant Lestienne	2
+Pedro Cachin	Nikoloz Basilashvili	1
+Oscar Otte	Laslo Djere	2
+Yibing Wu	Jaume Munar	1
+Cristian Garin	Daniel Elahi Galan	1
+Diego Schwartzman	Federico Coria	1
+Jiri Lehecka	Arthur Rinderknech	1
+Ugo Humbert	Bernabe Zapata Miralles	1
+Taro Daniel	Roberto Carballes Baena	2
+Tung Lin Wu	Alexander Bublik	1
+Marcos Giron	Aleksandar Kovacevic	1
+Jason Kubler	Lorenzo Sonego	1
+Alejandro Tabilo	Maximilian Marterer	1
+Jordan Thompson	Gael Monfils	1
+Carlos Alcaraz	Taylor Fritz	1
+Jannik Sinner	Emil Ruusuvuori	2
+Daniil Medvedev	Christopher Eubanks	2
+Karen Khachanov	Francisco Cerundolo	1
+Carlos Alcaraz	Tommy Paul	3
+Taylor Fritz	Holger Rune	1
+Emil Ruusuvuori	Botic Van De Zandschulp	1
+Jannik Sinner	Andrey Rublev	2
+Christopher Eubanks	Adrian Mannarino	2
+Daniil Medvedev	Quentin Halys	1
+Francisco Cerundolo	Lorenzo Sonego	2
+Holger Rune	Diego Schwartzman	1
+Botic Van De Zandschulp	Casper Ruud	2
+Emil Ruusuvuori	Taro Daniel	1
+Jannik Sinner	Grigor Dimitrov	2
+Andrey Rublev	Miomir Kecmanovic	1
+Adrian Mannarino	Hubert Hurkacz	1
+Christopher Eubanks	Gregoire Barrere	1
+Quentin Halys	Mackenzie Mcdonald	1
+Daniil Medvedev	Alex Molcan	1
+Lorenzo Sonego	Frances Tiafoe	2
+Karen Khachanov	Jiri Lehecka	2
+Stefanos Tsitsipas	Cristian Garin	1
+Carlos Alcaraz	Facundo Bagnis	1
+Dusan Lajovic	Maxime Cressy	1
+Tommy Paul	Marc Andrea Huesler	1
+Taylor Fritz	Emilio Nava	1
+Denis Shapovalov	Guido Pella	1
+Diego Schwartzman	Yibing Wu	2
+Holger Rune	Marton Fucsovics	1
+Casper Ruud	Ilya Ivashka	1
+Botic Van De Zandschulp	Alexei Popyrin	1
+Taro Daniel	Alexander Zverev	1
+Jannik Sinner	Laslo Djere	1
+Grigor Dimitrov	Jan Lennard Struff	1
+Miomir Kecmanovic	Ugo Humbert	1
+Andrey Rublev	J J Wolf	1
+Hubert Hurkacz	Thanasi Kokkinakis	3
+Adrian Mannarino	Ben Shelton	1
+Christopher Eubanks	Borna Coric	1
+Gregoire Barrere	Cameron Norrie	1
+Quentin Halys	Alex De Minaur	1
+Mackenzie Mcdonald	Matteo Berrettini	1
+Alex Molcan	Yoshihito Nishioka	2
+Daniil Medvedev	Roberto Carballes Baena	1
+Felix Auger Aliassime	Thiago Monteiro	1
+Francisco Cerundolo	Aleksandar Kovacevic	1
+Lorenzo Sonego	Daniel Evans	1
+Frances Tiafoe	Yosuke Watanuki	1
+Karen Khachanov	Tomas Martin Etcheverry	1
+Jiri Lehecka	Lorenzo Musetti	1
+Stefanos Tsitsipas	Richard Gasquet	2
+Facundo Bagnis	Felipe Meligeni Alves	1
+Dusan Lajovic	Andy Murray	1
+Brandon Nakashima	Oscar Otte	1
+Marc Andrea Huesler	Albert Ramos	1
+Emilio Nava	John Isner	1
+Guido Pella	Juan Pablo Varillas	1
+Yibing Wu	Kyle Edmund	1
+Marton Fucsovics	Pedro Cachin	1
+Ilya Ivashka	Daniel Altmaier	1
+Alexei Popyrin	Mikael Ymer	1
+Emil Ruusuvuori	Nuno Borges	1
+Taro Daniel	Arthur Rinderknech	1
+Laslo Djere	Aleksandar Vukic	1
+Jan Lennard Struff	Fabio Fognini	1
+Ugo Humbert	Gael Monfils	1
+J J Wolf	Alexander Bublik	2
+Thanasi Kokkinakis	Zizou Bergs	1
+Adrian Mannarino	Juncheng Shang	1
+Christopher Eubanks	Denis Kudla	1
+Gregoire Barrere	Roman Safiullin	1
+Quentin Halys	Pedro Martinez	1
+Alex Molcan	Jordan Thompson	1
+Thiago Monteiro	Jason Kubler	1
+Aleksandar Kovacevic	Jaume Munar	1
+Lorenzo Sonego	Dominic Thiem	1
+Yosuke Watanuki	Benoit Paire	1
+Tomas Martin Etcheverry	Pavel Kotov	1
+Jiri Lehecka	Federico Coria	1
+Cristian Garin	Marcos Giron	1
+Richard Gasquet	Christopher Oconnell	1
+Casper Ruud	Miomir Kecmanovic	1
+Casper Ruud	Quentin Halys	1
+Miomir Kecmanovic	Marco Cecchinato	1
+Casper Ruud	Sebastian Baez	2
+Quentin Halys	Dominic Thiem	1
+Marco Cecchinato	Alejandro Davidovich Fokina	1
+Miomir Kecmanovic	Bernabe Zapata Miralles	1
+Casper Ruud	Joao Sousa	1
+Sebastian Baez	Pedro Cachin	2
+Quentin Halys	Roberto Bautista Agut	2
+Dominic Thiem	Ben Shelton	2
+Marco Cecchinato	Fabio Fognini	1
+Alejandro Davidovich Fokina	Luca Van Assche	3
+Miomir Kecmanovic	Jurij Rodionov	1
+Bernabe Zapata Miralles	Hubert Hurkacz	1
+Joao Sousa	Giulio Zeppieri	1
+Pedro Cachin	Chun Hsin Tseng	1
+Sebastian Baez	Radu Albot	1
+Quentin Halys	Nuno Borges	1
+Dominic Thiem	Sebastian Ofner	2
+Ben Shelton	Constant Lestienne	1
+Marco Cecchinato	Diego Schwartzman	1
+Fabio Fognini	Alessandro Giannessi	1
+Luca Van Assche	Pedro Sousa	1
+Miomir Kecmanovic	Luca Nardi	1
+Jurij Rodionov	Albert Ramos	1
+Bernabe Zapata Miralles	Henrique Rocha	1
+Frances Tiafoe	Tomas Martin Etcheverry	2
+Frances Tiafoe	Gijs Brouwer	1
+Tomas Martin Etcheverry	Yannick Hanfmann	1
+Gijs Brouwer	J J Wolf	1
+Tomas Martin Etcheverry	Cristian Garin	1
+Yannick Hanfmann	Tomas Machac	1
+Frances Tiafoe	Steve Johnson	1
+Jason Kubler	Daniel Elahi Galan	1
+Gijs Brouwer	John Isner	1
+J J Wolf	Denis Kudla	1
+Tomas Martin Etcheverry	Max Purcell	1
+Cristian Garin	Zizou Bergs	1
+Tomas Machac	Marcos Giron	1
+Yannick Hanfmann	Tommy Paul	1
+Steve Johnson	Facundo Bagnis	1
+Daniel Elahi Galan	Zhizhen Zhang	1
+Jason Kubler	Fernando Verdasco	1
+Gijs Brouwer	Aleksandar Kovacevic	1
+Denis Kudla	Aleksandar Vukic	1
+Tomas Martin Etcheverry	Juan Manuel Cerundolo	1
+Max Purcell	Daniel Altmaier	1
+Cristian Garin	Hugo Dellien	2
+Marcos Giron	Emilio Gomez	1
+Tomas Machac	Jack Sock	1
+Yannick Hanfmann	Yosuke Watanuki	1
+Roberto Carballes Baena	Alexandre Muller	1
+Alexandre Muller	Pavel Kotov	1
+Roberto Carballes Baena	Daniel Evans	2
+Alexandre Muller	Lorenzo Musetti	1
+Pavel Kotov	Christopher Oconnell	1
+Roberto Carballes Baena	Tallon Griekspoor	2
+Daniel Evans	Andrea Vavassori	1
+Lorenzo Musetti	Hugo Gaston	1
+Alexandre Muller	Francesco Passaro	1
+Christopher Oconnell	Botic Van De Zandschulp	2
+Pavel Kotov	Benjamin Bonzi	1
+Roberto Carballes Baena	Dimitar Kuzmanov	1
+Tallon Griekspoor	Elias Ymer	1
+Andrea Vavassori	Jaume Munar	1
+Daniel Evans	Alexei Popyrin	1
+Hugo Gaston	Jan Lennard Struff	2
+Francesco Passaro	Aslan Karatsev	1
+Alexandre Muller	Richard Gasquet	1
+Christopher Oconnell	Riccardo Bonadio	1
+Pavel Kotov	Pedro Martinez	1
+Benjamin Bonzi	Alexey Vatutin	1
+Roberto Carballes Baena	Maxime Cressy	1
+Dimitar Kuzmanov	Hugo Grenier	1
+Elias Ymer	Adam Moundir	1
+Andrea Vavassori	Nicolas Jarry	1
+Jaume Munar	Elliot Benchetrit	1
+Alexei Popyrin	Younes Lalami Laaroussi	1
+Holger Rune	Jannik Sinner	2
+Andrey Rublev	Taylor Fritz	1
+Jannik Sinner	Lorenzo Musetti	2
+Holger Rune	Daniil Medvedev	2
+Andrey Rublev	Jan Lennard Struff	1
+Taylor Fritz	Stefanos Tsitsipas	1
+Lorenzo Musetti	Novak Djokovic	1
+Jannik Sinner	Hubert Hurkacz	1
+Andrey Rublev	Karen Khachanov	2
+Jan Lennard Struff	Casper Ruud	2
+Stefanos Tsitsipas	Nicolas Jarry	4
+Novak Djokovic	Ivan Gakhov	1
+Lorenzo Musetti	Luca Nardi	1
+Hubert Hurkacz	Jack Draper	2
+Jannik Sinner	Diego Schwartzman	3
+Alexander Zverev	Roberto Bautista Agut	1
+Matteo Berrettini	Francisco Cerundolo	1
+Holger Rune	Dominic Thiem	2
+Andrey Rublev	Jaume Munar	1
+Karen Khachanov	Ilya Ivashka	1
+Jan Lennard Struff	Alex De Minaur	1
+Taylor Fritz	Stan Wawrinka	1
+Jiri Lehecka	Grigor Dimitrov	1
+Nicolas Jarry	Alexei Popyrin	3
+Stefanos Tsitsipas	Benjamin Bonzi	1
+Ivan Gakhov	Mackenzie Mcdonald	1
+Luca Nardi	Valentin Vacherot	1
+Lorenzo Musetti	Miomir Kecmanovic	2
+Hubert Hurkacz	Laslo Djere	1
+Jack Draper	Sebastian Baez	1
+Diego Schwartzman	David Goffin	1
+Lorenzo Sonego	Ugo Humbert	3
+Roberto Bautista Agut	Filip Krajinovic	1
+Alexander Zverev	Alexander Bublik	2
+Francisco Cerundolo	Cameron Norrie	2
+Matteo Berrettini	Maxime Cressy	1
+Dominic Thiem	Richard Gasquet	1
+Jaume Munar	Marc Andrea Huesler	1
+Ilya Ivashka	Daniel Evans	1
+Alex De Minaur	Andy Murray	4
+Jan Lennard Struff	Albert Ramos	1
+Botic Van De Zandschulp	Marton Fucsovics	1
+Stan Wawrinka	Tallon Griekspoor	1
+Grigor Dimitrov	Ben Shelton	1
+Nicolas Jarry	Borna Coric	1
+Alexei Popyrin	Dusan Lajovic	1
+Benjamin Bonzi	Bernabe Zapata Miralles	1
+Carlos Alcaraz	Stefanos Tsitsipas	2
+Carlos Alcaraz	Daniel Evans	3
+Stefanos Tsitsipas	Lorenzo Musetti	2
+Carlos Alcaraz	Alejandro Davidovich Fokina	1
+Daniel Evans	Francisco Cerundolo	1
+Stefanos Tsitsipas	Alex De Minaur	2
+Carlos Alcaraz	Roberto Bautista Agut	1
+Alejandro Davidovich Fokina	Emil Ruusuvuori	1
+Francisco Cerundolo	Casper Ruud	3
+Daniel Evans	Karen Khachanov	1
+Lorenzo Musetti	Cameron Norrie	2
+Jannik Sinner	Yoshihito Nishioka	2
+Stefanos Tsitsipas	Denis Shapovalov	1
+Carlos Alcaraz	Nuno Borges	1
+Roberto Bautista Agut	Bernabe Zapata Miralles	1
+Alejandro Davidovich Fokina	Tomas Martin Etcheverry	2
+Emil Ruusuvuori	Frances Tiafoe	1
+Casper Ruud	Ben Shelton	1
+Francisco Cerundolo	Francesco Passaro	1
+Daniel Evans	Matteo Arnaldi	1
+Karen Khachanov	Nicolas Jarry	1
+Cameron Norrie	Pavel Kotov	1
+Lorenzo Musetti	Jason Kubler	1
+Yoshihito Nishioka	David Goffin	1
+Alex De Minaur	Alexander Shevchenko	1
+Grigor Dimitrov	Emilio Gomez	1
+Denis Shapovalov	Jozef Kovalik	1
+Stefanos Tsitsipas	Pedro Cachin	1
+Nuno Borges	Ilya Ivashka	1
+Bernabe Zapata Miralles	Attila Balazs	1
+Tomas Martin Etcheverry	Pablo Andujar	1
+Emil Ruusuvuori	Alexander Bublik	1
+Ben Shelton	Mackenzie Mcdonald	1
+Francesco Passaro	Fernando Verdasco	1
+Matteo Arnaldi	Jaume Munar	2
+Nicolas Jarry	Marco Trungelliti	1
+Pavel Kotov	Oleksii Krutykh	1
+Jason Kubler	Daniel Rincon	1
+David Goffin	Feliciano Lopez	1
+Alexander Shevchenko	Lorenzo Giustino	1
+Emilio Gomez	Albert Ramos	1
+Jozef Kovalik	Pedro Martinez	1
+Pedro Cachin	Gijs Brouwer	1
+Holger Rune	Botic Van De Zandschulp	1
+Holger Rune	Christopher Oconnell	1
+Botic Van De Zandschulp	Taylor Fritz	1
+Holger Rune	Cristian Garin	1
+Christopher Oconnell	Flavio Cobolli	1
+Botic Van De Zandschulp	Marcos Giron	1
+Taylor Fritz	Dominic Thiem	1
+Holger Rune	Yannick Hanfmann	1
+Cristian Garin	Lorenzo Sonego	1
+Flavio Cobolli	Oscar Otte	1
+Marcos Giron	Alexander Ritschard	1
+Botic Van De Zandschulp	Aslan Karatsev	2
+Dominic Thiem	Marc Andrea Huesler	1
+Yannick Hanfmann	Thiago Monteiro	2
+Cristian Garin	Marko Topo	1
+Lorenzo Sonego	Quentin Halys	1
+Christopher Oconnell	Ugo Humbert	1
+Flavio Cobolli	Jordan Thompson	1
+Oscar Otte	Sebastian Baez	1
+Marcos Giron	Roberto Carballes Baena	1
+Alexander Ritschard	Jan Lennard Struff	1
+Aslan Karatsev	Daniel Altmaier	1
+Marc Andrea Huesler	Kyle Edmund	1
+Dominic Thiem	Constant Lestienne	1
+Marton Fucsovics	Max Hans Rehberg	1
+Dusan Lajovic	Andrey Rublev	1
+Dusan Lajovic	Miomir Kecmanovic	2
+Andrey Rublev	Alex Molcan	2
+Dusan Lajovic	Novak Djokovic	1
+Miomir Kecmanovic	Jiri Lehecka	1
+Andrey Rublev	Damir Dzumhur	1
+Novak Djokovic	Luca Van Assche	1
+Dusan Lajovic	Gregoire Barrere	1
+Miomir Kecmanovic	Abedallah Shelbayh	1
+Jiri Lehecka	Radu Albot	1
+Alex Molcan	Alexei Popyrin	1
+Laslo Djere	Borna Coric	1
+Damir Dzumhur	Richard Gasquet	1
+Andrey Rublev	Juan Pablo Varillas	1
+Luca Van Assche	Stan Wawrinka	2
+Dusan Lajovic	Filip Krajinovic	1
+Gregoire Barrere	Hamad Medjedovic	1
+Abedallah Shelbayh	Elias Ymer	1
+Radu Albot	Federico Coria	1
+Jiri Lehecka	Gael Monfils	1
+Alexei Popyrin	Tallon Griekspoor	2
+Alex Molcan	Taro Daniel	1
+Laslo Djere	Roman Safiullin	1
+Richard Gasquet	Dino Prizmic	1
+Damir Dzumhur	Liam Broady	1
+Carlos Alcaraz	Jan Lennard Struff	1
+Carlos Alcaraz	Borna Coric	1
+Jan Lennard Struff	Aslan Karatsev	1
+Carlos Alcaraz	Karen Khachanov	1
+Borna Coric	Daniel Altmaier	1
+Jan Lennard Struff	Stefanos Tsitsipas	1
+Aslan Karatsev	Zhizhen Zhang	2
+Carlos Alcaraz	Alexander Zverev	3
+Daniel Altmaier	Jaume Munar	1
+Borna Coric	Alejandro Davidovich Fokina	1
+Jan Lennard Struff	Pedro Cachin	1
+Stefanos Tsitsipas	Bernabe Zapata Miralles	1
+Zhizhen Zhang	Taylor Fritz	1
+Aslan Karatsev	Daniil Medvedev	1
+Carlos Alcaraz	Grigor Dimitrov	3
+Alexander Zverev	Hugo Grenier	1
+Karen Khachanov	Roberto Bautista Agut	1
+Andrey Rublev	Yoshihito Nishioka	2
+Daniel Altmaier	Yannick Hanfmann	2
+Borna Coric	Hubert Hurkacz	2
+Alejandro Davidovich Fokina	Holger Rune	2
+Jan Lennard Struff	Dusan Lajovic	1
+Pedro Cachin	Frances Tiafoe	1
+Bernabe Zapata Miralles	Roman Safiullin	1
+Stefanos Tsitsipas	Sebastian Baez	1
+Taylor Fritz	Cristian Garin	1
+Zhizhen Zhang	Cameron Norrie	1
+Aslan Karatsev	Alex De Minaur	2
+Daniil Medvedev	Alexander Shevchenko	1
+Carlos Alcaraz	Emil Ruusuvuori	1
+Grigor Dimitrov	Gregoire Barrere	1
+Hugo Grenier	Sebastian Korda	1
+Alexander Zverev	Roberto Carballes Baena	1
+Karen Khachanov	Thiago Monteiro	1
+Andrey Rublev	Stan Wawrinka	1
+Matteo Arnaldi	Casper Ruud	1
+Daniel Altmaier	Oscar Otte	1
+Yannick Hanfmann	Lorenzo Musetti	1
+Hubert Hurkacz	Richard Gasquet	1
+Borna Coric	Hugo Gaston	1
+Alejandro Davidovich Fokina	Albert Ramos	1
+Holger Rune	Alexander Bublik	1
+Dusan Lajovic	Felix Auger Aliassime	1
+Jan Lennard Struff	Ben Shelton	1
+Pedro Cachin	Francisco Cerundolo	1
+Roman Safiullin	Tommy Paul	2
+Bernabe Zapata Miralles	Daniel Evans	1
+Sebastian Baez	Marcos Giron	1
+Stefanos Tsitsipas	Dominic Thiem	3
+Taylor Fritz	Christopher Oconnell	1
+Cristian Garin	Miomir Kecmanovic	2
+Zhizhen Zhang	Denis Shapovalov	1
+Cameron Norrie	Yosuke Watanuki	1
+Alex De Minaur	Marco Cecchinato	1
+Alexander Shevchenko	Jiri Lehecka	1
+Daniil Medvedev	Andrea Vavassori	1
+Emil Ruusuvuori	Ugo Humbert	3
+Gregoire Barrere	Emilio Nava	1
+Hugo Grenier	Diego Schwartzman	1
+Roberto Carballes Baena	David Goffin	1
+Thiago Monteiro	Borna Gojo	1
+Quentin Halys	Alexei Popyrin	1
+Alex Molcan	Yibing Wu	1
+Stan Wawrinka	Maxime Cressy	1
+Matteo Arnaldi	Benoit Paire	1
+Jaume Munar	Thanasi Kokkinakis	2
+Oscar Otte	Pavel Kotov	1
+Yannick Hanfmann	Juan Pablo Varillas	1
+Richard Gasquet	Martin Landaluce	1
+Hugo Gaston	Jeremy Chardy	1
+Albert Ramos	Ilya Ivashka	1
+Alexander Bublik	Daniel Elahi Galan	1
+Dusan Lajovic	Jason Kubler	1
+Jan Lennard Struff	Lorenzo Sonego	1
+Pedro Cachin	Abedallah Shelbayh	1
+Tomas Martin Etcheverry	Adrian Mannarino	1
+Roman Safiullin	Nicolas Jarry	2
+Bernabe Zapata Miralles	Mackenzie Mcdonald	1
+Marcos Giron	Nuno Borges	1
+Dominic Thiem	Kyle Edmund	1
+Christopher Oconnell	Filip Krajinovic	1
+Cristian Garin	Marc Andrea Huesler	1
+Zhizhen Zhang	Jurij Rodionov	1
+Yosuke Watanuki	Corentin Moutet	1
+Marco Cecchinato	Marton Fucsovics	1
+Aslan Karatsev	Laslo Djere	1
+Alexander Shevchenko	J J Wolf	1
+Andrea Vavassori	Andy Murray	1
+Holger Rune	Casper Ruud	2
+Daniil Medvedev	Stefanos Tsitsipas	2
+Holger Rune	Novak Djokovic	3
+Daniil Medvedev	Yannick Hanfmann	1
+Novak Djokovic	Cameron Norrie	2
+Holger Rune	Alexei Popyrin	1
+Francisco Cerundolo	Jannik Sinner	1
+Yannick Hanfmann	Andrey Rublev	2
+Borna Coric	Fabian Marozsan	1
+Cameron Norrie	Marton Fucsovics	1
+Alexei Popyrin	Roman Safiullin	1
+Holger Rune	Fabio Fognini	1
+Casper Ruud	Alexander Bublik	2
+Laslo Djere	Cristian Garin	1
+Francisco Cerundolo	Gregoire Barrere	1
+Jannik Sinner	Alexander Shevchenko	1
+Yannick Hanfmann	Marco Cecchinato	1
+Alexander Zverev	J J Wolf	1
+Daniil Medvedev	Bernabe Zapata Miralles	1
+Stefanos Tsitsipas	Lorenzo Sonego	1
+Borna Coric	Roberto Carballes Baena	1
+Fabian Marozsan	Carlos Alcaraz	1
+Novak Djokovic	Tomas Martin Etcheverry	2
+Grigor Dimitrov	Stan Wawrinka	1
+Cameron Norrie	Alexandre Muller	1
+Roman Safiullin	Sebastian Korda	1
+Fabio Fognini	Miomir Kecmanovic	1
+Holger Rune	Arthur Fils	1
+Casper Ruud	Arthur Rinderknech	1
+Alexander Bublik	Ben Shelton	1
+Laslo Djere	Botic Van De Zandschulp	1
+Cristian Garin	Tommy Paul	1
+Gregoire Barrere	Karen Khachanov	1
+Francisco Cerundolo	Yibing Wu	1
+Alexander Shevchenko	Sebastian Baez	1
+Alejandro Davidovich Fokina	Guido Pella	1
+Marco Cecchinato	Roberto Bautista Agut	1
+Yannick Hanfmann	Taylor Fritz	2
+J J Wolf	Hubert Hurkacz	1
+Alexander Zverev	David Goffin	1
+Bernabe Zapata Miralles	Jason Kubler	1
+Daniil Medvedev	Emil Ruusuvuori	1
+Stefanos Tsitsipas	Nuno Borges	1
+Lorenzo Sonego	Yoshihito Nishioka	1
+Lorenzo Musetti	Matteo Arnaldi	2
+Borna Coric	Thiago Monteiro	1
+Fabian Marozsan	Jiri Lehecka	1
+Carlos Alcaraz	Albert Ramos	1
+Tomas Martin Etcheverry	Luca Van Assche	1
+Stan Wawrinka	Ilya Ivashka	1
+Marton Fucsovics	Filip Krajinovic	1
+Alexandre Muller	Kyle Edmund	1
+Alexei Popyrin	Christopher Oconnell	1
+Roman Safiullin	Marcos Giron	1
+Fabio Fognini	Andy Murray	1
+Arthur Fils	Juan Manuel Cerundolo	1
+Arthur Rinderknech	Flavio Cobolli	1
+Alexander Bublik	Pedro Martinez	1
+Cristian Garin	Pedro Cachin	1
+Gregoire Barrere	Brandon Nakashima	1
+Yibing Wu	Richard Gasquet	1
+Alex Molcan	Stefano Napolitano	1
+Guido Pella	Maxime Cressy	1
+Marco Cecchinato	Mackenzie Mcdonald	2
+J J Wolf	Hugo Grenier	1
+David Goffin	Luca Nardi	1
+Jason Kubler	Marc Andrea Huesler	1
+Nuno Borges	Dusan Lajovic	1
+Lorenzo Sonego	Jeremy Chardy	1
+Matteo Arnaldi	Diego Schwartzman	1
+Daniel Altmaier	Giulio Zeppieri	1
+Thiago Monteiro	Adrian Mannarino	1
+Roberto Carballes Baena	Hugo Dellien	1
+Fabian Marozsan	Corentin Moutet	1
+Albert Ramos	Francesco Passaro	1
+Nicolas Jarry	Grigor Dimitrov	2
+Nicolas Jarry	Alexander Zverev	3
+Grigor Dimitrov	Taylor Fritz	1
+Nicolas Jarry	Casper Ruud	2
+Alexander Zverev	Yibing Wu	1
+Grigor Dimitrov	Christopher Oconnell	2
+Taylor Fritz	Ilya Ivashka	1
+Casper Ruud	J J Wolf	1
+Nicolas Jarry	Tallon Griekspoor	1
+Alexander Zverev	Christopher Eubanks	1
+Yibing Wu	Marco Cecchinato	1
+Christopher Oconnell	Bernabe Zapata Miralles	1
+Grigor Dimitrov	Roberto Carballes Baena	1
+Ilya Ivashka	Adrian Mannarino	1
+J J Wolf	Hugo Dellien	1
+Nicolas Jarry	Dusan Lajovic	1
+Tallon Griekspoor	Stefano Travaglia	1
+Christopher Eubanks	Benoit Paire	1
+Yibing Wu	Marc Andrea Huesler	1
+Marco Cecchinato	Ben Shelton	1
+Bernabe Zapata Miralles	Vitaliy Sachko	1
+Christopher Oconnell	Nino Serdarusic	1
+Roberto Carballes Baena	Daniel Rincon	1
+Adrian Mannarino	Filip Krajinovic	1
+Ilya Ivashka	Guido Pella	1
+Marcos Giron	Alexander Bublik	2
+Arthur Fils	Francisco Cerundolo	1
+Arthur Fils	Brandon Nakashima	2
+Arthur Fils	Felix Auger Aliassime	1
+Brandon Nakashima	Tommy Paul	1
+Francisco Cerundolo	Jack Draper	1
+Cameron Norrie	Sebastian Baez	1
+Felix Auger Aliassime	Pablo Llamas Ruiz	1
+Arthur Fils	Mikael Ymer	1
+Tommy Paul	Gregoire Barrere	2
+Brandon Nakashima	Arthur Rinderknech	1
+Jack Draper	Miomir Kecmanovic	2
+Francisco Cerundolo	Juan Pablo Varillas	1
+Cameron Norrie	David Goffin	1
+Pablo Llamas Ruiz	Max Purcell	1
+Arthur Fils	Zhizhen Zhang	1
+Mikael Ymer	Richard Gasquet	1
+Gregoire Barrere	Corentin Moutet	1
+Arthur Rinderknech	Lloyd Harris	1
+Brandon Nakashima	Diego Schwartzman	1
+Miomir Kecmanovic	Oriol Roca Batalla	1
+Jack Draper	Alexandre Muller	1
+Juan Pablo Varillas	Albert Ramos	3
+Sebastian Baez	Marton Fucsovics	1
+Pedro Cachin	Gael Monfils	1
+David Goffin	Alvaro Lopez San Martin	1
+Carlos Alcaraz	Flavio Cobolli	1
+Taro Daniel	Christopher Oconnell	2
+Matteo Arnaldi	Daniel Elahi Galan	1
+Denis Shapovalov	Brandon Nakashima	1
+Lorenzo Musetti	Mikael Ymer	1
+Alexander Shevchenko	Oscar Otte	1
+Lucas Pouille	Jurij Rodionov	1
+Cameron Norrie	Benoit Paire	1
+Fabio Fognini	Felix Auger Aliassime	1
+Jason Kubler	Facundo Diaz Acosta	1
+Sebastian Ofner	Maxime Cressy	1
+Sebastian Korda	Mackenzie Mcdonald	1
+Nuno Borges	John Isner	1
+Roberto Carballes Baena	Eduardo Nava	1
+Stefanos Tsitsipas	Jiri Vesely	1
+Novak Djokovic	Aleksandar Kovacevic	1
+Marton Fucsovics	Hugo Grenier	1
+Luca Van Assche	Marco Cecchinato	1
+Alejandro Davidovich Fokina	Arthur Fils	3
+Roberto Bautista Agut	Yibing Wu	1
+Juan Pablo Varillas	Juncheng Shang	1
+Tallon Griekspoor	Pedro Martinez	1
+Hubert Hurkacz	David Goffin	1
+Karen Khachanov	Constant Lestienne	2
+Radu Albot	Patrick Kypson	1
+Stan Wawrinka	Albert Ramos	1
+Thanasi Kokkinakis	Daniel Evans	1
+Lorenzo Sonego	Ben Shelton	1
+Ugo Humbert	Adrian Mannarino	2
+Corentin Moutet	Arthur Cazaux	1
+Andrey Rublev	Laslo Djere	1
+Holger Rune	Christopher Eubanks	1
+Gael Monfils	Sebastian Baez	1
+Genaro Alberto Olivieri	Giovanni Mpetshi Perricard	1
+Andrea Vavassori	Miomir Kecmanovic	1
+Arthur Rinderknech	Richard Gasquet	1
+Taylor Fritz	Michael Mmoh	1
+Tommy Paul	Dominic Stricker	1
+Nicolas Jarry	Hugo Dellien	1
+Marcos Giron	Hamad Medjedovic	1
+Jiri Lehecka	Jan Lennard Struff	1
+Thiago Agustin Tirante	Botic Van De Zandschulp	1
+Zhizhen Zhang	Dusan Lajovic	2
+Giulio Zeppieri	Alexander Bublik	1
+Casper Ruud	Elias Ymer	1
+Jannik Sinner	Alexandre Muller	1
+Daniel Altmaier	Marc Andrea Huesler	2
+Emil Ruusuvuori	Gregoire Barrere	2
+Grigor Dimitrov	Timofey Skatov	1
+Alexander Zverev	Lloyd Harris	1
+Alex Molcan	Hugo Gaston	1
+Aslan Karatsev	Alexei Popyrin	1
+Frances Tiafoe	Filip Krajinovic	1
+Borna Coric	Federico Coria	1
+Pedro Cachin	Dominic Thiem	1
+Tomas Martin Etcheverry	Jack Draper	1
+Alex De Minaur	Ilya Ivashka	1
+Yoshihito Nishioka	J J Wolf	1
+Max Purcell	Jordan Thompson	2
+Guido Pella	Quentin Halys	1
+Thiago Seyboth Wild	Daniil Medvedev	1
+Carlos Alcaraz	Taro Daniel	1
+Denis Shapovalov	Matteo Arnaldi	1
+Lorenzo Musetti	Alexander Shevchenko	1
+Cameron Norrie	Lucas Pouille	1
+Fabio Fognini	Jason Kubler	1
+Sebastian Ofner	Sebastian Korda	1
+Diego Schwartzman	Nuno Borges	1
+Stefanos Tsitsipas	Roberto Carballes Baena	1
+Novak Djokovic	Marton Fucsovics	1
+Juan Pablo Varillas	Roberto Bautista Agut	1
+Hubert Hurkacz	Tallon Griekspoor	3
+Karen Khachanov	Radu Albot	1
+Thanasi Kokkinakis	Stan Wawrinka	1
+Andrey Rublev	Corentin Moutet	1
+Holger Rune	Gael Monfils	1
+Genaro Alberto Olivieri	Andrea Vavassori	1
+Taylor Fritz	Arthur Rinderknech	1
+Nicolas Jarry	Tommy Paul	1
+Marcos Giron	Jiri Lehecka	2
+Zhizhen Zhang	Thiago Agustin Tirante	1
+Casper Ruud	Giulio Zeppieri	1
+Daniel Altmaier	Jannik Sinner	1
+Grigor Dimitrov	Emil Ruusuvuori	3
+Alexander Zverev	Alex Molcan	3
+Frances Tiafoe	Aslan Karatsev	3
+Borna Coric	Pedro Cachin	1
+Tomas Martin Etcheverry	Alex De Minaur	1
+Yoshihito Nishioka	Max Purcell	1
+Thiago Seyboth Wild	Guido Pella	1
+Carlos Alcaraz	Denis Shapovalov	1
+Sebastian Ofner	Fabio Fognini	1
+Stefanos Tsitsipas	Diego Schwartzman	1
+Novak Djokovic	Alejandro Davidovich Fokina	3
+Juan Pablo Varillas	Hubert Hurkacz	1
+Karen Khachanov	Thanasi Kokkinakis	1
+Lorenzo Sonego	Andrey Rublev	1
+Holger Rune	Genaro Alberto Olivieri	1
+Francisco Cerundolo	Taylor Fritz	1
+Nicolas Jarry	Marcos Giron	1
+Casper Ruud	Zhizhen Zhang	2
+Grigor Dimitrov	Daniel Altmaier	1
+Alexander Zverev	Frances Tiafoe	1
+Tomas Martin Etcheverry	Borna Coric	1
+Yoshihito Nishioka	Thiago Seyboth Wild	1
+Carlos Alcaraz	Lorenzo Musetti	2
+Stefanos Tsitsipas	Sebastian Ofner	1
+Novak Djokovic	Juan Pablo Varillas	1
+Karen Khachanov	Lorenzo Sonego	1
+Holger Rune	Francisco Cerundolo	1
+Alexander Zverev	Grigor Dimitrov	4
+Tomas Martin Etcheverry	Yoshihito Nishioka	1
+Novak Djokovic	Karen Khachanov	1
+Alexander Zverev	Tomas Martin Etcheverry	1
+Novak Djokovic	Carlos Alcaraz	4
+Casper Ruud	Alexander Zverev	1
+Novak Djokovic	Casper Ruud	1
+Tallon Griekspoor	Jordan Thompson	1
+Jordan Thompson	Rinky Hijikata	1
+Tallon Griekspoor	Emil Ruusuvuori	3
+Rinky Hijikata	Mackenzie Mcdonald	1
+Tallon Griekspoor	Alex De Minaur	2
+Adrian Mannarino	Daniil Medvedev	2
+Jordan Thompson	Milos Raonic	1
+Mackenzie Mcdonald	Borna Coric	1
+Rinky Hijikata	Marc Andrea Huesler	1
+Alex De Minaur	Laslo Djere	1
+Jannik Sinner	Alexander Bublik	2
+Adrian Mannarino	Arthur Fils	1
+Jordan Thompson	Giovanni Mpetshi Perricard	1
+Milos Raonic	Miomir Kecmanovic	1
+Mackenzie Mcdonald	Ilya Ivashka	1
+Rinky Hijikata	Gijs Brouwer	1
+Marc Andrea Huesler	Maxime Cressy	1
+Alexei Popyrin	Arthur Rinderknech	1
+Laslo Djere	Ricardas Berankis	1
+Ugo Humbert	Jason Kubler	2
+Emil Ruusuvuori	Brandon Nakashima	1
+Frances Tiafoe	Jan Lennard Struff	1
+Jan Lennard Struff	Hubert Hurkacz	2
+Frances Tiafoe	Marton Fucsovics	1
+Jan Lennard Struff	Richard Gasquet	1
+Hubert Hurkacz	Christopher Oconnell	1
+Hubert Hurkacz	Yosuke Watanuki	1
+Christopher Oconnell	Lorenzo Sonego	1
+Lorenzo Musetti	Gregoire Barrere	1
+Frances Tiafoe	Jiri Lehecka	1
+Marton Fucsovics	Yibing Wu	1
+Taylor Fritz	Aslan Karatsev	1
+Richard Gasquet	Christopher Eubanks	1
+Jan Lennard Struff	Zhizhen Zhang	1
+Tommy Paul	Benjamin Bonzi	1
+Yosuke Watanuki	Feliciano Lopez	1
+Christopher Oconnell	Daniel Altmaier	1
+Lorenzo Sonego	Matteo Berrettini	2
+Lorenzo Musetti	Borna Gojo	1
+Gregoire Barrere	Oscar Otte	1
+Yibing Wu	Nick Kyrgios	1
+Marton Fucsovics	Denis Shapovalov	1
+Aslan Karatsev	Corentin Moutet	1
+Alexander Bublik	Andrey Rublev	2
+Roberto Bautista Agut	Daniil Medvedev	1
+Daniil Medvedev	Laslo Djere	1
+Roberto Bautista Agut	Brandon Nakashima	1
+Alexander Bublik	Jan Lennard Struff	1
+Alexander Zverev	Denis Shapovalov	1
+Brandon Nakashima	Mikael Ymer	1
+Roberto Bautista Agut	Andrea Vavassori	1
+Andrey Rublev	Yibing Wu	1
+Yannick Hanfmann	Louis Wessels	1
+Hubert Hurkacz	Christopher Eubanks	1
+Alexander Bublik	Borna Coric	1
+Jan Lennard Struff	Roman Safiullin	1
+Lorenzo Sonego	Aslan Karatsev	1
+Alexander Zverev	Dominic Thiem	1
+Denis Shapovalov	Lloyd Harris	1
+Nicolas Jarry	Corentin Moutet	1
+Stefanos Tsitsipas	Gregoire Barrere	1
+Carlos Alcaraz	Alex De Minaur	1
+Carlos Alcaraz	Sebastian Korda	1
+Sebastian Korda	Cameron Norrie	1
+Holger Rune	Lorenzo Musetti	1
+Carlos Alcaraz	Jiri Lehecka	1
+Grigor Dimitrov	Francisco Cerundolo	1
+Sebastian Korda	Frances Tiafoe	1
+Cameron Norrie	Jordan Thompson	1
+Alex De Minaur	Diego Schwartzman	3
+Lorenzo Musetti	Ben Shelton	1
+Holger Rune	Ryan Peniston	1
+Carlos Alcaraz	Arthur Rinderknech	1
+Jiri Lehecka	Alejandro Davidovich Fokina	2
+Francisco Cerundolo	Tommy Paul	3
+Frances Tiafoe	Botic Van De Zandschulp	1
+Sebastian Korda	Daniel Evans	1
+Jordan Thompson	Alexei Popyrin	1
+Cameron Norrie	Miomir Kecmanovic	1
+Diego Schwartzman	Mackenzie Mcdonald	2
+Adrian Mannarino	Liam Broady	1
+Taylor Fritz	Bernabe Zapata Miralles	1
+Lorenzo Musetti	Jan Choinski	1
+Ryan Peniston	Ugo Humbert	1
+Adrian Mannarino	Yannick Hanfmann	1
+Christopher Eubanks	Lloyd Harris	1
+Yannick Hanfmann	Feliciano Lopez	1
+Adrian Mannarino	Corentin Moutet	1
+Christopher Eubanks	Arthur Rinderknech	1
+Lloyd Harris	Pavel Kotov	1
+Yannick Hanfmann	Stefanos Tsitsipas	2
+Feliciano Lopez	Jordan Thompson	1
+Adrian Mannarino	Guido Pella	1
+Corentin Moutet	Roberto Carballes Baena	1
+Arthur Rinderknech	Constant Lestienne	1
+Christopher Eubanks	Ben Shelton	2
+Lloyd Harris	Roman Safiullin	1
+Pavel Kotov	Alejandro Davidovich Fokina	1
+Yannick Hanfmann	Pedro Cachin	1
+Feliciano Lopez	Max Purcell	1
+Jordan Thompson	Richard Gasquet	1
+Guido Pella	Marcos Giron	1
+Corentin Moutet	Christopher Oconnell	1
+Roberto Carballes Baena	Ilya Ivashka	1
+Arthur Rinderknech	Albert Ramos	1
+Constant Lestienne	Jason Kubler	1
+Christopher Eubanks	Alex Michelsen	1
+Lloyd Harris	Bernabe Zapata Miralles	1
+Roman Safiullin	Abedallah Shelbayh	1
+Pavel Kotov	Li Tu	1
+Francisco Cerundolo	Mackenzie Mcdonald	2
+Francisco Cerundolo	Zhizhen Zhang	1
+Gregoire Barrere	Miomir Kecmanovic	1
+Tommy Paul	J J Wolf	1
+Mikael Ymer	Liam Broady	1
+Francisco Cerundolo	Marc Andrea Huesler	1
+Zhizhen Zhang	Maxime Cressy	1
+Miomir Kecmanovic	Aleksandar Vukic	1
+Gregoire Barrere	Nicolas Jarry	1
+J J Wolf	Luca Van Assche	1
+Tommy Paul	Sebastian Baez	1
+Liam Broady	Jan Choinski	1
+Marc Andrea Huesler	Ryan Peniston	1
+Maxime Cressy	Daniel Elahi Galan	1
+Zhizhen Zhang	Lorenzo Sonego	1
+Miomir Kecmanovic	Yibing Wu	1
+Aleksandar Vukic	Brandon Nakashima	2
+J J Wolf	Tomas Martin Etcheverry	1
+Luca Van Assche	George Loffhagen	1
+Sebastian Baez	Nuno Borges	1
+Carlos Alcaraz	Jeremy Chardy	1
+Alexandre Muller	Arthur Rinderknech	1
+Nicolas Jarry	Marco Cecchinato	1
+Alexander Zverev	Gijs Brouwer	1
+Yosuke Watanuki	Marc Andrea Huesler	1
+Alex De Minaur	Kimmer Coppejans	1
+Frances Tiafoe	Yibing Wu	1
+Dominic Stricker	Alexei Popyrin	2
+Ilya Ivashka	Federico Coria	1
+Grigor Dimitrov	Sho Shimabukuro	1
+Botic Van De Zandschulp	Zhizhen Zhang	1
+Roberto Carballes Baena	Matteo Arnaldi	1
+Holger Rune	George Loffhagen	1
+Daniil Medvedev	Arthur Fery	1
+Adrian Mannarino	Alexander Shevchenko	1
+Marcos Giron	Hugo Dellien	1
+Marton Fucsovics	Tallon Griekspoor	1
+Francisco Cerundolo	Nuno Borges	1
+Jiri Lehecka	Sebastian Ofner	1
+Milos Raonic	Dennis Novak	1
+Tommy Paul	Shintaro Mochizuki	1
+Cameron Norrie	Tomas Machac	1
+Christopher Eubanks	Thiago Monteiro	1
+Christopher Oconnell	Hamad Medjedovic	2
+Jiri Vesely	Sebastian Korda	1
+Ben Shelton	Taro Daniel	2
+Laslo Djere	Maxime Cressy	1
+Andy Murray	Ryan Peniston	1
+Jannik Sinner	Juan Manuel Cerundolo	1
+Diego Schwartzman	Miomir Kecmanovic	1
+Aleksandar Vukic	Daniel Altmaier	1
+Quentin Halys	Daniel Evans	1
+Daniel Elahi Galan	Yoshihito Nishioka	1
+Oscar Otte	Dominik Koepfer	1
+Mikael Ymer	Alex Molcan	1
+Guido Pella	Borna Coric	1
+Harold Mayot	Benjamin Bonzi	1
+Corentin Moutet	Richard Gasquet	1
+Roman Safiullin	Roberto Bautista Agut	1
+Denis Shapovalov	Radu Albot	1
+Gregoire Barrere	Lloyd Harris	1
+Liam Broady	Constant Lestienne	1
+Casper Ruud	Laurent Lokoli	1
+Andrey Rublev	Max Purcell	1
+Aslan Karatsev	Luca Van Assche	1
+David Goffin	Fabian Marozsan	1
+Alexander Bublik	Mackenzie Mcdonald	1
+J J Wolf	Enzo Couacaud	1
+Maximilian Marterer	Borna Gojo	1
+Michael Mmoh	Felix Auger Aliassime	1
+Jaume Munar	John Isner	1
+Jan Choinski	Dusan Lajovic	1
+Hubert Hurkacz	Albert Ramos	1
+Tomas Martin Etcheverry	Bernabe Zapata Miralles	1
+Stan Wawrinka	Emil Ruusuvuori	1
+Jordan Thompson	Brandon Nakashima	1
+Novak Djokovic	Pedro Cachin	1
+Carlos Alcaraz	Alexandre Muller	1
+Nicolas Jarry	Jason Kubler	1
+Alexander Zverev	Yosuke Watanuki	1
+Matteo Berrettini	Alex De Minaur	1
+Frances Tiafoe	Dominic Stricker	1
+Grigor Dimitrov	Ilya Ivashka	1
+Alejandro Davidovich Fokina	Botic Van De Zandschulp	1
+Holger Rune	Roberto Carballes Baena	2
+Marton Fucsovics	Marcos Giron	1
+Jiri Lehecka	Francisco Cerundolo	1
+Tommy Paul	Milos Raonic	1
+Christopher Eubanks	Cameron Norrie	1
+Christopher Oconnell	Jiri Vesely	1
+Laslo Djere	Ben Shelton	1
+Stefanos Tsitsipas	Andy Murray	1
+Quentin Halys	Aleksandar Vukic	1
+Daniel Elahi Galan	Oscar Otte	1
+Mikael Ymer	Taylor Fritz	1
+Guido Pella	Harold Mayot	1
+Roman Safiullin	Corentin Moutet	1
+Denis Shapovalov	Gregoire Barrere	1
+Liam Broady	Casper Ruud	1
+Andrey Rublev	Aslan Karatsev	1
+David Goffin	Tomas Barrios Vera	1
+Maximilian Marterer	Michael Mmoh	1
+Hubert Hurkacz	Jan Choinski	1
+Stan Wawrinka	Tomas Martin Etcheverry	2
+Novak Djokovic	Jordan Thompson	1
+Matteo Berrettini	Alexander Zverev	1
+Grigor Dimitrov	Frances Tiafoe	1
+Daniil Medvedev	Marton Fucsovics	1
+Jiri Lehecka	Tommy Paul	1
+Christopher Eubanks	Christopher Oconnell	1
+Stefanos Tsitsipas	Laslo Djere	1
+Jannik Sinner	Quentin Halys	1
+Daniel Elahi Galan	Mikael Ymer	1
+Roman Safiullin	Guido Pella	1
+Denis Shapovalov	Liam Broady	1
+Andrey Rublev	David Goffin	1
+Alexander Bublik	Maximilian Marterer	2
+Hubert Hurkacz	Lorenzo Musetti	1
+Novak Djokovic	Stan Wawrinka	1
+Carlos Alcaraz	Matteo Berrettini	1
+Holger Rune	Grigor Dimitrov	2
+Daniil Medvedev	Jiri Lehecka	1
+Christopher Eubanks	Stefanos Tsitsipas	1
+Jannik Sinner	Daniel Elahi Galan	1
+Carlos Alcaraz	Holger Rune	1
+Jannik Sinner	Roman Safiullin	1
+Novak Djokovic	Jannik Sinner	4
+Pedro Cachin	Albert Ramos	2
+Pedro Cachin	Hamad Medjedovic	1
+Albert Ramos	Miomir Kecmanovic	1
+Pedro Cachin	Jaume Munar	1
+Hamad Medjedovic	Yannick Hanfmann	1
+Miomir Kecmanovic	Zizou Bergs	1
+Pedro Cachin	Roberto Bautista Agut	1
+Jaume Munar	Stan Wawrinka	1
+Hamad Medjedovic	Dominic Thiem	1
+Juan Pablo Varillas	Facundo Bagnis	1
+Albert Ramos	Lorenzo Sonego	1
+Zizou Bergs	Jurij Rodionov	1
+Miomir Kecmanovic	Dominic Stricker	1
+Pedro Cachin	Taro Daniel	1
+Jaume Munar	Alexander Ritschard	1
+Stan Wawrinka	Roberto Carballes Baena	2
+Daniel Altmaier	Benjamin Bonzi	1
+Dominic Thiem	Alexandre Muller	1
+Hamad Medjedovic	Zhizhen Zhang	1
+Juan Pablo Varillas	Otto Virtanen	1
+Facundo Bagnis	Arthur Rinderknech	1
+Albert Ramos	Fabio Fognini	1
+Jurij Rodionov	Marc Andrea Huesler	1
+Dominic Stricker	Arthur Fils	2
+Andrey Rublev	Casper Ruud	1
+Casper Ruud	Lorenzo Musetti	1
+Andrey Rublev	Francisco Cerundolo	1
+Casper Ruud	Sebastian Ofner	1
+Lorenzo Musetti	Filip Misolic	1
+Casper Ruud	Alexander Shevchenko	1
+Sebastian Ofner	Bernabe Zapata Miralles	1
+Filip Misolic	Jozef Kovalik	1
+Federico Coria	Leo Borg	1
+Francisco Cerundolo	Luca Van Assche	1
+Alexander Zverev	Thiago Monteiro	1
+Andrey Rublev	Pavel Kotov	1
+Alexander Shevchenko	Juan Manuel Cerundolo	1
+Bernabe Zapata Miralles	Hugo Dellien	1
+Sebastian Ofner	Tomas Martin Etcheverry	1
+Matteo Arnaldi	Emil Ruusuvuori	1
+Filip Misolic	Dusan Lajovic	1
+Jozef Kovalik	Alejandro Davidovich Fokina	1
+Leo Borg	Elias Ymer	1
+Luca Van Assche	Dragos Nicolae Madaras	1
+Thiago Monteiro	Daniel Elahi Galan	1
+Pavel Kotov	Marco Cecchinato	1
+Adrian Mannarino	Alex Michelsen	1
+Alex Michelsen	John Isner	1
+John Isner	Tommy Paul	1
+Alex Michelsen	Mackenzie Mcdonald	1
+Ugo Humbert	Kevin Anderson	1
+Tommy Paul	Ethan Quinn	1
+John Isner	Corentin Moutet	1
+Mackenzie Mcdonald	Li Tu	1
+Alex Michelsen	James Duckworth	1
+Kevin Anderson	Gijs Brouwer	1
+Ugo Humbert	Steve Johnson	1
+Jordan Thompson	Liam Broady	1
+Adrian Mannarino	Rinky Hijikata	1
+Ethan Quinn	Sasi Kumar Mukund	1
+John Isner	Alex Bolt	1
+Corentin Moutet	Eliot Spizzirri	1
+Li Tu	Aleksandar Vukic	1
+James Duckworth	Constant Lestienne	1
+Alex Michelsen	Maxime Cressy	2
+Gijs Brouwer	Max Purcell	1
+Kevin Anderson	Gabriel Diallo	1
+Steve Johnson	Yunseong Chung	1
+Jordan Thompson	Aleksandar Kovacevic	1
+Liam Broady	Shintaro Mochizuki	1
+Rinky Hijikata	Abedallah Shelbayh	1
+Taylor Fritz	Aleksandar Vukic	1
+Taylor Fritz	J J Wolf	1
+Aleksandar Vukic	Ugo Humbert	1
+Taylor Fritz	Kei Nishikori	1
+J J Wolf	Dominik Koepfer	1
+Ugo Humbert	Alex De Minaur	2
+Kei Nishikori	Juncheng Shang	1
+Dominik Koepfer	Daniel Evans	1
+J J Wolf	Maxime Cressy	1
+Christopher Eubanks	Brandon Nakashima	1
+Aleksandar Vukic	Yoshihito Nishioka	1
+Ugo Humbert	Lloyd Harris	1
+Alex De Minaur	Thanasi Kokkinakis	1
+Kei Nishikori	Jordan Thompson	1
+Juncheng Shang	Ben Shelton	2
+Dominik Koepfer	John Isner	1
+J J Wolf	Jason Jung	1
+Christopher Eubanks	Andres Martin	1
+Brandon Nakashima	Max Purcell	1
+Aleksandar Vukic	Ethan Quinn	1
+Ugo Humbert	Constant Lestienne	1
+Lloyd Harris	James Duckworth	1
+Thanasi Kokkinakis	Gael Monfils	1
+Alexander Zverev	Laslo Djere	1
+Alexander Zverev	Arthur Fils	1
+Laslo Djere	Zhizhen Zhang	1
+Arthur Fils	Casper Ruud	1
+Alexander Zverev	Luca Van Assche	1
+Laslo Djere	Lorenzo Musetti	1
+Zhizhen Zhang	Daniel Altmaier	1
+Arthur Fils	Dusan Lajovic	1
+Alexander Zverev	Maximilian Marterer	1
+Laslo Djere	Guido Pella	1
+Lorenzo Musetti	Jozef Kovalik	1
+Zhizhen Zhang	Yannick Hanfmann	1
+Daniel Altmaier	Andrey Rublev	1
+Arthur Fils	Daniel Elahi Galan	1
+Maximilian Marterer	Rudolf Molleker	1
+Luca Van Assche	Alexandre Muller	1
+Alejandro Davidovich Fokina	Pedro Cachin	1
+Laslo Djere	Tomas Martin Etcheverry	1
+Jozef Kovalik	Thiago Seyboth Wild	1
+Lorenzo Musetti	Elias Ymer	1
+Zhizhen Zhang	Jan Choinski	1
+Daniel Altmaier	Richard Gasquet	1
+Andrey Rublev	Bernabe Zapata Miralles	1
+Alexei Popyrin	Stan Wawrinka	1
+Alexei Popyrin	Matteo Arnaldi	3
+Stan Wawrinka	Lorenzo Sonego	1
+Matteo Arnaldi	Jiri Lehecka	1
+Alexei Popyrin	Dino Prizmic	1
+Lorenzo Sonego	Jaume Munar	1
+Jiri Lehecka	Dominic Thiem	1
+Matteo Arnaldi	Flavio Cobolli	1
+Alexei Popyrin	Sebastian Ofner	1
+Dino Prizmic	Zsombor Piros	1
+Stan Wawrinka	Federico Coria	1
+Jaume Munar	Fabian Marozsan	1
+Lorenzo Sonego	Marco Cecchinato	1
+Dominic Thiem	Facundo Bagnis	2
+Flavio Cobolli	Marin Cilic	1
+Matteo Arnaldi	Jesper De Jong	1
+Alexei Popyrin	Benjamin Bonzi	1
+Dino Prizmic	Duje Ajdukovic	1
+Zsombor Piros	Christopher Oconnell	1
+Stan Wawrinka	Filip Misolic	1
+Federico Coria	Marc Andrea Huesler	1
+Taro Daniel	Martin Landaluce	1
+Jaume Munar	Albert Ramos	1
+Fabian Marozsan	Juan Manuel Cerundolo	1
+Marco Cecchinato	Alexander Shevchenko	1
+Sebastian Baez	Dominic Thiem	1
+Dominic Thiem	Laslo Djere	1
+Tomas Martin Etcheverry	Daniel Elahi Galan	1
+Sebastian Baez	Alex Molcan	1
+Laslo Djere	Pedro Cachin	1
+Dominic Thiem	Arthur Rinderknech	1
+Tomas Martin Etcheverry	Guido Andreozzi	1
+Daniel Elahi Galan	Daniel Altmaier	1
+Alex Molcan	Sebastian Ofner	1
+Sebastian Baez	Roberto Carballes Baena	1
+Laslo Djere	Thiago Seyboth Wild	1
+Dominic Thiem	Zhizhen Zhang	1
+Arthur Rinderknech	Yannick Hanfmann	1
+Guido Andreozzi	Filip Misolic	1
+Daniel Elahi Galan	Marco Cecchinato	1
+Alex Molcan	Luca Van Assche	1
+Sebastian Baez	Hamad Medjedovic	1
+Roberto Carballes Baena	Guido Pella	1
+Laslo Djere	Christopher Oconnell	1
+Thiago Seyboth Wild	Dennis Novak	1
+Arthur Rinderknech	Juan Manuel Cerundolo	1
+Alex De Minaur	Dominik Koepfer	1
+Borna Coric	Ilya Ivashka	1
+Dominik Koepfer	Aleksandar Kovacevic	1
+Stefanos Tsitsipas	John Isner	1
+Nicolas Jarry	Gijs Brouwer	1
+Borna Coric	Jason Jung	1
+Ilya Ivashka	Borna Gojo	1
+Alex De Minaur	Thiago Agustin Tirante	1
+Tommy Paul	Felipe Meligeni Alves	1
+Dominik Koepfer	James Duckworth	1
+Aleksandar Kovacevic	Cameron Norrie	1
+John Isner	Rinky Hijikata	1
+Gijs Brouwer	Gabriel Diallo	1
+Nicolas Jarry	Rodrigo Pacheco Mendez	1
+Jason Jung	Ernesto Escobedo	1
+Borna Gojo	Cristian Garin	1
+Ilya Ivashka	Beibit Zhukayev	1
+Alex De Minaur	Skander Mansouri	1
+Thiago Agustin Tirante	Gonzalo Lama	1
+Felipe Meligeni Alves	Alejandro Tabilo	1
+Dominik Koepfer	Tomas Barrios Vera	1
+James Duckworth	Otto Virtanen	1
+Aleksandar Kovacevic	Omni Kumar	1
+Daniel Evans	Tallon Griekspoor	1
+Tallon Griekspoor	Taylor Fritz	1
+Daniel Evans	Grigor Dimitrov	1
+Taylor Fritz	Jordan Thompson	1
+Tallon Griekspoor	J J Wolf	1
+Grigor Dimitrov	Ugo Humbert	1
+Taylor Fritz	Andy Murray	1
+Jordan Thompson	Christopher Eubanks	1
+Tallon Griekspoor	Gael Monfils	1
+Ugo Humbert	Yosuke Watanuki	1
+Daniel Evans	Alexander Shevchenko	1
+Taylor Fritz	Zachary Svajda	1
+Andy Murray	Brandon Nakashima	1
+Christopher Eubanks	Sho Shimabukuro	1
+Michael Mmoh	Hubert Hurkacz	1
+Tallon Griekspoor	Liam Broady	1
+Gael Monfils	Alexander Bublik	1
+Grigor Dimitrov	Mackenzie Mcdonald	2
+Emil Ruusuvuori	Yoshihito Nishioka	1
+Ugo Humbert	Thanasi Kokkinakis	1
+Yosuke Watanuki	Felix Auger Aliassime	1
+Alexander Shevchenko	Sebastian Korda	1
+Daniel Evans	Gregoire Barrere	1
+Zachary Svajda	Max Purcell	1
+Sho Shimabukuro	Lloyd Harris	1
+Jordan Thompson	Kevin Anderson	1
+Michael Mmoh	Bradley Klahn	1
+Radu Albot	Marcos Giron	1
+Liam Broady	Corentin Moutet	1
+Gael Monfils	Bjorn Fratangelo	1
+Thanasi Kokkinakis	Taro Daniel	1
+Yosuke Watanuki	Yibing Wu	1
+Alexander Shevchenko	Maxime Cressy	1
+Gregoire Barrere	Shintaro Mochizuki	1
+Juncheng Shang	Emilio Gomez	1
+Aslan Karatsev	Kiranpal Pannu	1
+Jannik Sinner	Alex De Minaur	3
+Jannik Sinner	Tommy Paul	1
+Alex De Minaur	Alejandro Davidovich Fokina	1
+Jannik Sinner	Gael Monfils	1
+Alejandro Davidovich Fokina	Mackenzie Mcdonald	1
+Alex De Minaur	Daniil Medvedev	3
+Carlos Alcaraz	Hubert Hurkacz	2
+Tommy Paul	Marcos Giron	1
+Gael Monfils	Aleksandar Vukic	1
+Jannik Sinner	Andy Murray	1
+Mackenzie Mcdonald	Milos Raonic	1
+Alejandro Davidovich Fokina	Casper Ruud	1
+Alex De Minaur	Taylor Fritz	1
+Daniil Medvedev	Lorenzo Musetti	2
+Carlos Alcaraz	Ben Shelton	1
+Hubert Hurkacz	Miomir Kecmanovic	1
+Marcos Giron	Holger Rune	1
+Gael Monfils	Stefanos Tsitsipas	1
+Aleksandar Vukic	Sebastian Korda	1
+Andy Murray	Max Purcell	1
+Jannik Sinner	Matteo Berrettini	1
+Mackenzie Mcdonald	Andrey Rublev	1
+Milos Raonic	Taro Daniel	1
+Alejandro Davidovich Fokina	Alexander Zverev	2
+Casper Ruud	Jiri Lehecka	1
+Taylor Fritz	Ugo Humbert	1
+Alex De Minaur	Gabriel Diallo	1
+Lorenzo Musetti	Thanasi Kokkinakis	1
+Ben Shelton	Bernabe Zapata Miralles	1
+Tommy Paul	Diego Schwartzman	1
+Francisco Cerundolo	Alexis Galarneau	1
+Marcos Giron	Emil Ruusuvuori	1
+Gael Monfils	Christopher Eubanks	1
+Sebastian Korda	Tomas Martin Etcheverry	3
+Aleksandar Vukic	Borna Coric	1
+Max Purcell	Felix Auger Aliassime	1
+Matteo Berrettini	Gregoire Barrere	1
+Mackenzie Mcdonald	Aslan Karatsev	1
+Taro Daniel	Adrian Mannarino	1
+Milos Raonic	Frances Tiafoe	1
+Alejandro Davidovich Fokina	J J Wolf	1
+Jiri Lehecka	Brandon Nakashima	1
+Ugo Humbert	Nicolas Jarry	2
+Gabriel Diallo	Daniel Evans	1
+Lorenzo Musetti	Yoshihito Nishioka	1
+Thanasi Kokkinakis	Zhizhen Zhang	1
+Matteo Arnaldi	Vasek Pospisil	1
+Novak Djokovic	Alexander Zverev	1
+Carlos Alcaraz	Max Purcell	1
+Alexander Zverev	Adrian Mannarino	1
+Novak Djokovic	Taylor Fritz	2
+Max Purcell	Stan Wawrinka	1
+Hubert Hurkacz	Stefanos Tsitsipas	1
+Alexei Popyrin	Emil Ruusuvuori	1
+Adrian Mannarino	Mackenzie Mcdonald	1
+Taylor Fritz	Dusan Lajovic	1
+Novak Djokovic	Gael Monfils	1
+Carlos Alcaraz	Jordan Thompson	1
+Tommy Paul	Ugo Humbert	1
+Stan Wawrinka	Frances Tiafoe	1
+Max Purcell	Casper Ruud	1
+Stefanos Tsitsipas	Ben Shelton	1
+Adrian Mannarino	Felix Auger Aliassime	1
+Alexander Zverev	Yoshihito Nishioka	1
+Dusan Lajovic	Jannik Sinner	1
+Taylor Fritz	Lorenzo Sonego	1
+Gael Monfils	Alex De Minaur	1
+Jordan Thompson	John Isner	1
+Ugo Humbert	Arthur Fils	1
+Tommy Paul	Miomir Kecmanovic	1
+Frances Tiafoe	Tallon Griekspoor	2
+Stan Wawrinka	Brandon Nakashima	1
+Max Purcell	Lloyd Harris	1
+Borna Coric	Sebastian Korda	1
+Alexei Popyrin	Daniel Altmaier	1
+Emil Ruusuvuori	Corentin Moutet	1
+Mackenzie Mcdonald	Yannick Hanfmann	1
+Adrian Mannarino	Richard Gasquet	1
+Felix Auger Aliassime	Matteo Berrettini	1
+Yoshihito Nishioka	Gregoire Barrere	1
+Lorenzo Musetti	Daniel Evans	1
+Dusan Lajovic	Francisco Cerundolo	1
+Lorenzo Sonego	Alexander Shevchenko	1
+Gael Monfils	Cameron Norrie	1
+Alex De Minaur	J J Wolf	1
+Sebastian Baez	Jiri Lehecka	1
+Sebastian Baez	Borna Coric	2
+Jiri Lehecka	Sebastian Korda	1
+Borna Coric	Juan Manuel Cerundolo	1
+Sebastian Korda	Richard Gasquet	1
+Jiri Lehecka	Max Purcell	1
+Borna Coric	Michael Mmoh	1
+Juan Manuel Cerundolo	Omni Kumar	1
+Laslo Djere	Alex Michelsen	1
+Sebastian Baez	Aleksandar Vukic	1
+Richard Gasquet	Brandon Nakashima	1
+Sebastian Korda	Marton Fucsovics	2
+Jiri Lehecka	Dominik Koepfer	1
+Max Purcell	Tallon Griekspoor	1
+Borna Coric	Rinky Hijikata	1
+Juan Manuel Cerundolo	Yannick Hanfmann	1
+Omni Kumar	Botic Van De Zandschulp	1
+Laslo Djere	Facundo Diaz Acosta	1
+Alex Michelsen	Sebastian Ofner	1
+Aleksandar Vukic	Luca Van Assche	1
+Sebastian Baez	Daniel Elahi Galan	1
+Richard Gasquet	Marc Andrea Huesler	1
+Marton Fucsovics	Zhizhen Zhang	1
+Sebastian Korda	Benjamin Bonzi	1
+Jiri Lehecka	Mitchell Krueger	1
+Dominik Koepfer	Strong Kirchheimer	1
+Max Purcell	Andrey Kuznetsov	1
+Tallon Griekspoor	Jack Draper	1
+Rinky Hijikata	Illya Marchenko	1
+Michael Mmoh	Darian King	1
+Juan Manuel Cerundolo	Roman Safiullin	1
+Omni Kumar	Arthur Rinderknech	1
+Facundo Diaz Acosta	Quentin Halys	1
+Alex Michelsen	Juan Pablo Varillas	1
+Luca Van Assche	Thai Son Kwiatkowski	1
+Daniel Elahi Galan	Radu Albot	1
+Brandon Nakashima	Jason Kubler	1
+Marc Andrea Huesler	Alexander Shevchenko	1
+Zhizhen Zhang	Ilya Ivashka	1
+Benjamin Bonzi	Alexandre Muller	1
+Mitchell Krueger	Pavel Kotov	1
+Dominik Koepfer	Constant Lestienne	1
+Max Purcell	Marco Cecchinato	1
+Jack Draper	Nuno Borges	1
+Carlos Alcaraz	Dominik Koepfer	1
+Lloyd Harris	Guido Pella	1
+Botic Van De Zandschulp	Jordan Thompson	1
+Daniel Evans	Daniel Elahi Galan	1
+Arthur Fils	Tallon Griekspoor	1
+Matteo Arnaldi	Jason Kubler	1
+Yu Hsiou Hsu	Thanasi Kokkinakis	1
+Cameron Norrie	Alexander Shevchenko	1
+Alexander Zverev	Aleksandar Vukic	1
+Daniel Altmaier	Constant Lestienne	1
+Andy Murray	Corentin Moutet	1
+Grigor Dimitrov	Alex Molcan	1
+Tomas Martin Etcheverry	Otto Virtanen	1
+Stan Wawrinka	Yoshihito Nishioka	1
+Lorenzo Sonego	Nicolas Moreno De Alboran	1
+Jannik Sinner	Yannick Hanfmann	1
+Daniil Medvedev	Attila Balazs	1
+Christopher Oconnell	Max Purcell	1
+Felipe Meligeni Alves	James Duckworth	1
+Nicolas Jarry	Luca Van Assche	1
+Alex Michelsen	Albert Ramos	1
+Yibing Wu	Dusan Lajovic	1
+Alex De Minaur	Timofey Skatov	1
+Michael Mmoh	Karen Khachanov	1
+John Isner	Facundo Diaz Acosta	1
+Jack Draper	Radu Albot	1
+Hubert Hurkacz	Marc Andrea Huesler	1
+Matteo Berrettini	Ugo Humbert	1
+Arthur Rinderknech	Diego Schwartzman	1
+Gael Monfils	Taro Daniel	1
+Andrey Rublev	Arthur Cazaux	1
+Casper Ruud	Emilio Nava	1
+Zhizhen Zhang	J J Wolf	1
+Rinky Hijikata	Pavel Kotov	1
+Adrian Mannarino	Yosuke Watanuki	1
+Fabian Marozsan	Richard Gasquet	1
+Sebastian Ofner	Nuno Borges	1
+Frances Tiafoe	Learner Tien	1
+Tommy Paul	Stefano Travaglia	1
+Roman Safiullin	Marco Cecchinato	1
+Juan Manuel Cerundolo	Ilya Ivashka	1
+Alejandro Davidovich Fokina	Marcos Giron	1
+Dominic Thiem	Alexander Bublik	1
+Ben Shelton	Pedro Cachin	1
+Aslan Karatsev	Jiri Lehecka	1
+Stefanos Tsitsipas	Milos Raonic	1
+Benjamin Bonzi	Quentin Halys	1
+Titouan Droguet	Lorenzo Musetti	1
+Jakub Mensik	Gregoire Barrere	1
+Juan Pablo Varillas	Miomir Kecmanovic	1
+Taylor Fritz	Steve Johnson	1
+Mackenzie Mcdonald	Felix Auger Aliassime	1
+Borna Gojo	Hugo Dellien	1
+Jiri Vesely	Enzo Couacaud	1
+Francisco Cerundolo	Zachary Svajda	1
+Laslo Djere	Brandon Nakashima	1
+Hugo Gaston	Sho Shimabukuro	1
+Bernabe Zapata Miralles	Ethan Quinn	1
+Novak Djokovic	Alexandre Muller	1
+Carlos Alcaraz	Lloyd Harris	1
+Daniel Evans	Botic Van De Zandschulp	1
+Matteo Arnaldi	Arthur Fils	1
+Cameron Norrie	Yu Hsiou Hsu	1
+Alexander Zverev	Daniel Altmaier	1
+Grigor Dimitrov	Andy Murray	1
+Sebastian Baez	Felipe Meligeni Alves	1
+Nicolas Jarry	Alex Michelsen	1
+Alex De Minaur	Yibing Wu	1
+Michael Mmoh	John Isner	1
+Arthur Rinderknech	Matteo Berrettini	1
+Andrey Rublev	Gael Monfils	1
+Rinky Hijikata	Marton Fucsovics	1
+Adrian Mannarino	Fabian Marozsan	1
+Frances Tiafoe	Sebastian Ofner	1
+Alejandro Davidovich Fokina	Juan Manuel Cerundolo	1
+Aslan Karatsev	Roberto Carballes Baena	1
+Dominic Stricker	Stefanos Tsitsipas	1
+Benjamin Bonzi	Christopher Eubanks	1
+Jakub Mensik	Titouan Droguet	1
+Taylor Fritz	Juan Pablo Varillas	1
+Borna Gojo	Mackenzie Mcdonald	1
+Jiri Vesely	Francisco Cerundolo	1
+Laslo Djere	Hugo Gaston	1
+Novak Djokovic	Bernabe Zapata Miralles	1
+Matteo Arnaldi	Cameron Norrie	1
+Daniil Medvedev	Sebastian Baez	1
+Alex De Minaur	Nicolas Jarry	1
+Jack Draper	Michael Mmoh	1
+Andrey Rublev	Arthur Rinderknech	1
+Rinky Hijikata	Zhizhen Zhang	1
+Frances Tiafoe	Adrian Mannarino	1
+Ben Shelton	Aslan Karatsev	2
+Dominic Stricker	Benjamin Bonzi	1
+Taylor Fritz	Jakub Mensik	1
+Borna Gojo	Jiri Vesely	1
+Novak Djokovic	Laslo Djere	1
+Carlos Alcaraz	Matteo Arnaldi	1
+Alexander Zverev	Jannik Sinner	1
+Andrey Rublev	Jack Draper	1
+Frances Tiafoe	Rinky Hijikata	1
+Taylor Fritz	Dominic Stricker	1
+Novak Djokovic	Borna Gojo	1
+Ben Shelton	Frances Tiafoe	1
+Novak Djokovic	Ben Shelton	1
+Alexander Zverev	Roman Safiullin	2
+Roman Safiullin	Lorenzo Musetti	1
+Alexander Zverev	Miomir Kecmanovic	1
+Roman Safiullin	Jordan Thompson	1
+Lorenzo Musetti	Arthur Rinderknech	1
+Alexander Zverev	Pavel Kotov	1
+Miomir Kecmanovic	Corentin Moutet	1
+Grigor Dimitrov	Juan Pablo Varillas	1
+Jordan Thompson	Dusan Lajovic	1
+Roman Safiullin	Daniel Evans	1
+Arthur Rinderknech	Marcos Giron	1
+Lorenzo Musetti	Philip Sekulic	1
+Pavel Kotov	Daniel Elahi Galan	1
+Corentin Moutet	Tao Mu	1
+Miomir Kecmanovic	Benjamin Lock	1
+Juan Pablo Varillas	Jie Cui	1
+Christopher Oconnell	Alibek Kachmazov	1
+Taro Daniel	Aleksandar Vukic	1
+Dusan Lajovic	Zizou Bergs	1
+Roman Safiullin	Brandon Nakashima	1
+Arthur Rinderknech	Li Tu	1
+Philip Sekulic	Nuno Borges	1
+Yoshihito Nishioka	Aslan Karatsev	1
+Karen Khachanov	Mackenzie Mcdonald	1
+Yoshihito Nishioka	Jan Lennard Struff	1
+Aslan Karatsev	Cameron Norrie	1
+Karen Khachanov	Alex Bolt	1
+Mackenzie Mcdonald	Kimmer Coppejans	1
+Sebastian Korda	Alexandre Muller	1
+Tomas Martin Etcheverry	Dalibor Svrcina	1
+Yoshihito Nishioka	Lloyd Harris	1
+Jan Lennard Struff	Cristian Garin	1
+Aslan Karatsev	Andy Murray	1
+Cameron Norrie	Marc Polmans	1
+Alex Bolt	Diego Schwartzman	1
+Kimmer Coppejans	Aleksandar Kovacevic	1
+Mackenzie Mcdonald	Juncheng Shang	1
+Alexandre Muller	Rinky Hijikata	1
+Dalibor Svrcina	Zhe Li	1
+Tomas Martin Etcheverry	Luke Saville	1
+Yoshihito Nishioka	Terence Atmane	1
+Lloyd Harris	Jiri Vesely	1
+Cristian Garin	Yi Zhou	1
+Andy Murray	Ye Cong Mo	1
+Aslan Karatsev	Matteo Arnaldi	1
+Marc Polmans	Dane Sweeny	1
+Adrian Mannarino	Sebastian Korda	1
+Sebastian Korda	Hamad Medjedovic	1
+Adrian Mannarino	Sebastian Ofner	2
+Sebastian Korda	Tallon Griekspoor	1
+Hamad Medjedovic	Jiri Lehecka	1
+Adrian Mannarino	Jurij Rodionov	1
+Tallon Griekspoor	Sho Shimabukuro	1
+Sebastian Korda	Nuno Borges	1
+Jiri Lehecka	Egor Gerasimov	1
+Hamad Medjedovic	Alexander Shevchenko	1
+Dominic Thiem	Marcos Giron	1
+Sebastian Ofner	Alexander Bublik	1
+Adrian Mannarino	Alibek Kachmazov	1
+Jurij Rodionov	Sebastian Baez	1
+Sho Shimabukuro	Roberto Carballes Baena	1
+Nuno Borges	Mikhail Kukushkin	1
+Sebastian Korda	Alexei Popyrin	1
+Egor Gerasimov	Bernabe Zapata Miralles	1
+Alexander Shevchenko	Botic Van De Zandschulp	1
+Hamad Medjedovic	Laslo Djere	1
+Marcos Giron	Stan Wawrinka	1
+Sebastian Ofner	Marton Fucsovics	1
+Adrian Mannarino	Arthur Rinderknech	1
+Alibek Kachmazov	Corentin Moutet	1
+Jurij Rodionov	Gregoire Barrere	1
+Carlos Alcaraz	Casper Ruud	1
+Daniil Medvedev	Ugo Humbert	1
+Casper Ruud	Tomas Martin Etcheverry	1
+Nicolas Jarry	Matteo Arnaldi	1
+Carlos Alcaraz	Yannick Hanfmann	1
+Lorenzo Musetti	Karen Khachanov	1
+Tomas Martin Etcheverry	Lloyd Harris	1
+Holger Rune	Felix Auger Aliassime	2
+Yoshihito Nishioka	Juncheng Shang	1
+Jannik Sinner	Daniel Evans	1
+Alexander Zverev	Diego Schwartzman	1
+Alejandro Davidovich Fokina	Yi Zhou	1
+Matteo Arnaldi	J J Wolf	2
+Daniil Medvedev	Tommy Paul	1
+Hubert Hurkacz	Andrey Rublev	1
+Andrey Rublev	Grigor Dimitrov	1
+Hubert Hurkacz	Fabian Marozsan	1
+Sebastian Korda	Ben Shelton	1
+Ugo Humbert	J J Wolf	1
+Andrey Rublev	Tommy Paul	1
+Fabian Marozsan	Casper Ruud	1
+Hubert Hurkacz	Zhizhen Zhang	2
+Ben Shelton	Jannik Sinner	2
+Sebastian Korda	Francisco Cerundolo	1
+Grigor Dimitrov	Karen Khachanov	1
+Nicolas Jarry	Lorenzo Sonego	2
+Diego Schwartzman	Taylor Fritz	1
+Ugo Humbert	Stefanos Tsitsipas	1
+Tommy Paul	Arthur Fils	1
+Andrey Rublev	Adrian Mannarino	1
+Casper Ruud	Christopher Eubanks	1
+Fabian Marozsan	Dusan Lajovic	1
+Hubert Hurkacz	Yu Hsiou Hsu	1
+Zhizhen Zhang	Brandon Nakashima	1
+Jannik Sinner	Sebastian Baez	1
+Ben Shelton	Roman Safiullin	1
+Francisco Cerundolo	Marton Fucsovics	1
+Carlos Alcaraz	Gregoire Barrere	1
+Daniel Evans	Mikhail Kukushkin	1
+Grigor Dimitrov	Aleksandar Vukic	1
+Karen Khachanov	Beibit Zhukayev	1
+Nicolas Jarry	Terence Atmane	1
+Diego Schwartzman	Jiri Lehecka	1
+Taylor Fritz	Yosuke Watanuki	1
+Ugo Humbert	Botic Van De Zandschulp	1
+Matteo Arnaldi	Jan Lennard Struff	1
+J J Wolf	Cameron Norrie	1
+Tommy Paul	Sebastian Ofner	1
+Adrian Mannarino	Chun Hsin Tseng	1
+Andrey Rublev	Quentin Halys	1
+Casper Ruud	Yoshihito Nishioka	1
+Christopher Eubanks	Yannick Hanfmann	1
+Dusan Lajovic	Tallon Griekspoor	1
+Fabian Marozsan	Alex De Minaur	1
+Yu Hsiou Hsu	Lorenzo Musetti	1
+Zhizhen Zhang	Tomas Martin Etcheverry	1
+Brandon Nakashima	Holger Rune	1
+Jannik Sinner	Marcos Giron	1
+Sebastian Baez	Dane Sweeny	1
+Ben Shelton	Jaume Munar	1
+Marton Fucsovics	Felix Auger Aliassime	1
+Sebastian Korda	Bu Yunchaokete	1
+Daniil Medvedev	Cristian Garin	1
+Gregoire Barrere	Nuno Borges	1
+Mikhail Kukushkin	Alexandre Muller	1
+Aleksandar Vukic	Roberto Carballes Baena	1
+Beibit Zhukayev	Stefano Napolitano	1
+Lorenzo Sonego	Philip Sekulic	1
+Terence Atmane	Jordan Thompson	1
+Diego Schwartzman	Luca Van Assche	1
+Yosuke Watanuki	Juncheng Shang	1
+Rinky Hijikata	Laslo Djere	1
+J J Wolf	Pedro Cachin	1
+Sebastian Ofner	Juan Pablo Varillas	1
+Arthur Fils	Pavel Kotov	1
+Chun Hsin Tseng	Alexander Shevchenko	1
+Quentin Halys	Aslan Karatsev	1
+Yoshihito Nishioka	Daniel Altmaier	1
+Yannick Hanfmann	James Duckworth	1
+Dusan Lajovic	Stan Wawrinka	1
+Fabian Marozsan	Arthur Rinderknech	1
+Yu Hsiou Hsu	Max Purcell	1
+Zhizhen Zhang	Richard Gasquet	1
+Brandon Nakashima	Bernabe Zapata Miralles	1
+Marcos Giron	Daniel Elahi Galan	1
+Dane Sweeny	Taro Daniel	1
+Jaume Munar	Rigele Te	1
+Roman Safiullin	Andy Murray	1
+Marton Fucsovics	Denis Yevseyev	1
+Mackenzie Mcdonald	Corentin Moutet	1
+Bu Yunchaokete	Miomir Kecmanovic	1
+Cristian Garin	Aleksandar Kovacevic	1
+Gael Monfils	Pavel Kotov	1
+Pavel Kotov	Miomir Kecmanovic	1
+Gael Monfils	Laslo Djere	1
+Miomir Kecmanovic	Elias Ymer	1
+Laslo Djere	Tomas Machac	1
+Gael Monfils	Adrian Mannarino	1
+Miomir Kecmanovic	Holger Rune	2
+Elias Ymer	Dino Prizmic	1
+Pavel Kotov	Lorenzo Sonego	1
+Laslo Djere	J J Wolf	1
+Tomas Machac	Stan Wawrinka	1
+Gael Monfils	Filip Misolic	1
+Adrian Mannarino	Roman Safiullin	1
+Miomir Kecmanovic	Karl Friberg	1
+Elias Ymer	Roberto Bautista Agut	1
+Dino Prizmic	Jiri Lehecka	1
+Emil Ruusuvuori	Benjamin Hassan	1
+Lorenzo Sonego	Dusan Lajovic	1
+Pavel Kotov	Christopher Eubanks	1
+J J Wolf	Sebastian Baez	1
+Laslo Djere	Leo Borg	1
+Stan Wawrinka	Borna Gojo	1
+Filip Misolic	Daniel Evans	1
+Gael Monfils	Marton Fucsovics	1
+Roman Safiullin	Thiago Seyboth Wild	1
+Aslan Karatsev	Shintaro Mochizuki	1
+Shintaro Mochizuki	Alexei Popyrin	1
+Marcos Giron	Felix Auger Aliassime	1
+Shintaro Mochizuki	Taylor Fritz	1
+Alexei Popyrin	Cristian Garin	1
+Ben Shelton	Jordan Thompson	1
+Felix Auger Aliassime	Sebastian Ofner	1
+Marcos Giron	Casper Ruud	1
+Shintaro Mochizuki	Tomas Martin Etcheverry	1
+Cristian Garin	Sho Shimabukuro	1
+Alexei Popyrin	Karen Khachanov	1
+Alex De Minaur	Jack Draper	1
+Diego Schwartzman	Francisco Cerundolo	1
+Tommy Paul	Daniel Altmaier	1
+Mackenzie Mcdonald	Max Purcell	1
+Jordan Thompson	Alexander Zverev	1
+Felix Auger Aliassime	Aleksandar Vukic	1
+Sebastian Ofner	Christopher Oconnell	2
+Marcos Giron	Yoshihito Nishioka	1
+Casper Ruud	Yosuke Watanuki	1
+Alexander Bublik	Arthur Fils	1
+Arthur Fils	Stefanos Tsitsipas	1
+Arthur Fils	Juan Pablo Varillas	1
+Alexander Bublik	Giovanni Mpetshi Perricard	1
+Maximilian Marterer	Hugo Gaston	1
+Stefanos Tsitsipas	Botic Van De Zandschulp	1
+Yannick Hanfmann	Dominic Thiem	1
+Arthur Fils	Mark Lajal	1
+Juan Pablo Varillas	Alexander Shevchenko	1
+Giovanni Mpetshi Perricard	David Goffin	1
+Maximilian Marterer	Nuno Borges	1
+Botic Van De Zandschulp	Dominic Stricker	1
+Dominic Thiem	Luca Nardi	1
+Yannick Hanfmann	Alexander Blockx	1
+Mark Lajal	Jaume Munar	1
+Alexander Shevchenko	Benjamin Bonzi	1
+Juan Pablo Varillas	Fabian Marozsan	1
+Giovanni Mpetshi Perricard	Roberto Carballes Baena	1
+David Goffin	Quentin Halys	1
+Gregoire Barrere	Daniel Elahi Galan	1
+Maximilian Marterer	Richard Gasquet	1
+Nuno Borges	Dominik Koepfer	1
+Hugo Gaston	Arthur Rinderknech	1
+Hubert Hurkacz	Ugo Humbert	1
+Holger Rune	Tomas Martin Etcheverry	1
+Felix Auger Aliassime	Alexander Shevchenko	1
+Ugo Humbert	Dominic Stricker	1
+Holger Rune	Sebastian Baez	1
+Alexander Shevchenko	Taylor Fritz	1
+Felix Auger Aliassime	Botic Van De Zandschulp	1
+Dominic Stricker	Casper Ruud	1
+Sebastian Baez	Christopher Oconnell	1
+Andy Murray	Yannick Hanfmann	1
+Taylor Fritz	Max Purcell	1
+Alexander Shevchenko	Stan Wawrinka	1
+Botic Van De Zandschulp	Roberto Bautista Agut	1
+Felix Auger Aliassime	Leandro Riedi	1
+Tallon Griekspoor	Thiago Seyboth Wild	1
+Jan Lennard Struff	Christopher Eubanks	1
+Hubert Hurkacz	Dusan Lajovic	1
+Nicolas Jarry	Adrian Mannarino	1
+Ugo Humbert	Marcos Giron	2
+Dominic Stricker	Benjamin Hassan	1
+Felix Auger Aliassime	Hubert Hurkacz	1
+Stefanos Tsitsipas	Borna Gojo	1
+Jannik Sinner	Frances Tiafoe	1
+Stefanos Tsitsipas	Tomas Machac	1
+Borna Gojo	Tommy Paul	1
+Alexander Zverev	Cameron Norrie	1
+Andrey Rublev	Matteo Arnaldi	1
+Frances Tiafoe	Gael Monfils	1
+Daniil Medvedev	Arthur Fils	1
+Grigor Dimitrov	Lorenzo Musetti	2
+Jiri Lehecka	J J Wolf	1
+Karen Khachanov	Roman Safiullin	2
+Tomas Machac	Aleksandar Vukic	1
+Borna Gojo	Aslan Karatsev	1
+Tommy Paul	Alexandre Muller	1
+Alexander Zverev	Sebastian Ofner	1
+Cameron Norrie	Filip Misolic	1
+Matteo Arnaldi	Albert Ramos	1
+Andrey Rublev	Alexei Popyrin	1
+Gael Monfils	Daniel Altmaier	1
+Holger Rune	Daniel Altmaier	1
+Hubert Hurkacz	Francisco Cerundolo	1
+Stefanos Tsitsipas	Alexander Zverev	1
+Tallon Griekspoor	Alejandro Davidovich Fokina	1
+Daniel Altmaier	Taylor Fritz	1
+Jannik Sinner	Mackenzie Mcdonald	1
+Alex De Minaur	Dusan Lajovic	1
+Botic Van De Zandschulp	Tommy Paul	2
+Alexander Bublik	Nicolas Jarry	2
+Stefanos Tsitsipas	Felix Auger Aliassime	1
+Alexander Zverev	Ugo Humbert	1
+Karen Khachanov	Laslo Djere	1
+Roman Safiullin	Carlos Alcaraz	1
+Tomas Martin Etcheverry	Miomir Kecmanovic	1
+Tallon Griekspoor	Christopher Eubanks	1
+Alejandro Davidovich Fokina	Ben Shelton	1
+Daniel Altmaier	Arthur Fils	1
+Dominic Thiem	Stan Wawrinka	1
+Mackenzie Mcdonald	J J Wolf	1
+Dusan Lajovic	Benjamin Bonzi	1
+Tommy Paul	Richard Gasquet	1
+Botic Van De Zandschulp	Adrian Mannarino	1
+Yoshihito Nishioka	Jordan Thompson	1
+Francisco Cerundolo	Gael Monfils	1
+Roberto Bautista Agut	Jiri Lehecka	1
+Alexander Bublik	Frances Tiafoe	1
+Felix Auger Aliassime	Jan Lennard Struff	1
+Alexander Zverev	Marton Fucsovics	1
+Karen Khachanov	Max Purcell	1
+Laslo Djere	Luca Van Assche	1
+Roman Safiullin	Alexandre Muller	1
+Ugo Humbert	Alexander Shevchenko	1
+Ugo Humbert	Fabio Fognini	1
+Alexander Shevchenko	Pierre Hugues Herbert	1
+Fabio Fognini	Lorenzo Sonego	1
+Ugo Humbert	Harold Mayot	1
+Alexander Shevchenko	Karen Khachanov	1
+Pierre Hugues Herbert	Luca Van Assche	1
+Fabio Fognini	Alexander Bublik	1
+Lorenzo Sonego	Abedallah Shelbayh	1
+Ugo Humbert	Dominic Thiem	1
+Harold Mayot	Gregoire Barrere	1
+Alexander Shevchenko	Mate Valkusz	1
+Pierre Hugues Herbert	Gijs Brouwer	1
+Fabio Fognini	Thiago Seyboth Wild	1
+Abedallah Shelbayh	Hugo Gaston	1
+Lorenzo Sonego	Marcos Giron	1
+Dominic Thiem	Matteo Martineau	1
+Harold Mayot	Yosuke Watanuki	1
+Gregoire Barrere	Yannick Hanfmann	1
+Mate Valkusz	Daniel Altmaier	1
+Alexander Shevchenko	Mathias Bourgue	1
+Constant Lestienne	Calvin Hemery	1
+Stan Wawrinka	Bernabe Zapata Miralles	1
+Luca Van Assche	Botic Van De Zandschulp	1
+Pierre Hugues Herbert	Arthur Cazaux	1
+Adrian Mannarino	Jack Draper	1
+Jack Draper	Jan Lennard Struff	1
+Adrian Mannarino	Pavel Kotov	1
+Jack Draper	Cem Ilkel	1
+Jan Lennard Struff	Fabian Marozsan	1
+Pavel Kotov	Marton Fucsovics	1
+Jack Draper	Lorenzo Musetti	1
+Cem Ilkel	Max Purcell	1
+Jan Lennard Struff	Billy Harris	1
+Fabian Marozsan	Roberto Bautista Agut	1
+Marton Fucsovics	Jurij Rodionov	1
+Pavel Kotov	Sebastian Baez	1
+Adrian Mannarino	Albert Ramos	1
+Jack Draper	Maximilian Marterer	1
+Cem Ilkel	Dimitar Kuzmanov	1
+Max Purcell	Rinky Hijikata	1
+Billy Harris	Marc Andrea Huesler	1
+Fabian Marozsan	Zsombor Piros	1
+Roberto Bautista Agut	Miomir Kecmanovic	1
+Marton Fucsovics	Terence Atmane	1
+Jurij Rodionov	Nicolas Moreno De Alboran	1
+Pavel Kotov	Alexandar Lazarov	1
+Sebastian Ofner	Vitaliy Sachko	1
+Holger Rune	Stefanos Tsitsipas	1
+Carlos Alcaraz	Andrey Rublev	1
+Hamad Medjedovic	Arthur Fils	1
+Arthur Fils	Luca Van Assche	1
+Hamad Medjedovic	Dominic Stricker	1
+Arthur Fils	Flavio Cobolli	1
+Arthur Fils	Luca Nardi	1
+Flavio Cobolli	Dominic Stricker	1
+Dominic Stricker	Luca Nardi	1
+Luca Nardi	Flavio Cobolli	1
+Luca Van Assche	Alex Michelsen	1
+Hamad Medjedovic	Luca Van Assche	1
+Luca Van Assche	Abedallah Shelbayh	1
+Hamad Medjedovic	Alex Michelsen	1
+Abedallah Shelbayh	Alex Michelsen	1
+Hamad Medjedovic	Abedallah Shelbayh	1
+Alexis Galarneau	Alejandro Tabilo	1
+Nicolas Jarry	Gabriel Diallo	1
+Alexis Galarneau	Lorenzo Sonego	1
+Gabriel Diallo	Lorenzo Musetti	1
+Vasek Pospisil	Leo Borg	1
+Gabriel Diallo	Elias Ymer	1
+Matteo Arnaldi	Cristian Garin	1
+Matteo Arnaldi	Leo Borg	1
+Lorenzo Sonego	Elias Ymer	1
+Cristian Garin	Leo Borg	1
+Nicolas Jarry	Elias Ymer	1
+Adrian Mannarino	Max Purcell	1
+Jack Draper	Thanasi Kokkinakis	1
+Daniel Evans	Alex De Minaur	1
+Thanasi Kokkinakis	Dominic Stricker	1
+Alex De Minaur	Marc Andrea Huesler	1
+Adrian Mannarino	Dominic Stricker	1
+Ugo Humbert	Stan Wawrinka	1
+Daniel Evans	Arthur Fils	1
+Ugo Humbert	Cameron Norrie	1
+Andy Murray	Leandro Riedi	1
+Stan Wawrinka	Cameron Norrie	1
+Tomas Machac	Seong Chan Hong	1
+Jiri Lehecka	Soon Woo Kwon	1
+Tomas Machac	Bernabe Zapata Miralles	1
+Bernabe Zapata Miralles	Seong Chan Hong	1
+Laslo Djere	Albert Ramos	1
+Jakub Mensik	Dusan Lajovic	1
+Jiri Lehecka	Laslo Djere	1
+Dusan Lajovic	Seong Chan Hong	1
+Laslo Djere	Soon Woo Kwon	1
+Otto Virtanen	Dino Prizmic	1
+Emil Ruusuvuori	Borna Gojo	1
+Botic Van De Zandschulp	Duje Ajdukovic	1
+Borna Gojo	Tallon Griekspoor	1
+Mackenzie Mcdonald	Dino Prizmic	1
+Borna Gojo	Frances Tiafoe	1
+Otto Virtanen	Botic Van De Zandschulp	1
+Otto Virtanen	Mackenzie Mcdonald	1
+Emil Ruusuvuori	Tommy Paul	1
+Milos Raonic	Patrick Kaukovalta	1
+Otto Virtanen	Gabriel Diallo	1
+Tomas Machac	Jordan Thompson	1
+Alex De Minaur	Jiri Lehecka	1
+Alexei Popyrin	Otto Virtanen	1
+Alex De Minaur	Emil Ruusuvuori	1
+Botic Van De Zandschulp	Matteo Arnaldi	1
+Emil Ruusuvuori	Pedro Cachin	1
+Francisco Cerundolo	Otto Virtanen	1
+Emil Ruusuvuori	Facundo Bagnis	1
+Zizou Bergs	Soon Woo Kwon	1
+David Goffin	Seong Chan Hong	1
+Soon Woo Kwon	David Goffin	1
+Seong Chan Hong	Zizou Bergs	1
+Borna Coric	Dennis Novak	1
+Borna Gojo	Dominic Thiem	1
+Borna Coric	Dominic Thiem	1
+Jiri Lehecka	Nuno Borges	1
+Tomas Machac	Joao Sousa	1
+Jiri Lehecka	Joao Sousa	1
+Zsombor Piros	Benjamin Bonzi	1
+Ugo Humbert	Marton Fucsovics	1
+Adrian Mannarino	Marton Fucsovics	1
+Ugo Humbert	Fabian Marozsan	1
+Nicolas Mejia	Daniel Evans	1
+Cameron Norrie	Nicolas Barrientos	1
+Cameron Norrie	Nicolas Mejia	1
+Marc Andrea Huesler	Oscar Otte	1
+Alexander Zverev	Stan Wawrinka	1
+Marc Andrea Huesler	Alexander Zverev	1
+Stan Wawrinka	Daniel Altmaier	1
+Timofey Skatov	Cristian Garin	1
+Cristian Garin	Alexander Bublik	1
+Tallon Griekspoor	Lukas Klein	1
+Tim Van Rijthoven	Alex Molcan	1
+Matwe Middelkoop	Jozef Kovalik	1
+Miomir Kecmanovic	Andreja Petrovic	1
+Laslo Djere	Viktor Durasovic	1
+Hamad Medjedovic	Viktor Durasovic	1
+Mikael Ymer	Mirza Basic	1
+Elias Ymer	Damir Dzumhur	1
+Mikael Ymer	Damir Dzumhur	1
+Mackenzie Mcdonald	Sergey Fomin	1
+Tommy Paul	Khumoun Sultanov	1
+Denis Kudla	Amir Milushev	1
+Francisco Cerundolo	Vilius Gaubas	1
+Sebastian Baez	Ricardas Berankis	1
+Tomas Martin Etcheverry	Edas Butvilas	1
+Nuno Borges	Jurij Rodionov	1
+Joao Sousa	Sebastian Ofner	1
+Nuno Borges	Dennis Novak	1
+Daniel Altmaier	Nerman Fatic	1
+Yannick Hanfmann	Damir Dzumhur	1
+Maximilian Marterer	Andrej Nedic	1
+Timofey Skatov	Dimitar Kuzmanov	1
+Alexander Bublik	Yanaki Milev	1
+Alexander Bublik	Dimitar Kuzmanov	1
+Thiago Monteiro	Holger Rune	1
+Thiago Seyboth Wild	August Holmgren	1
+Elmer Moller	Marcelo Demoliner	1
+Alex Molcan	Alexandros Skorilas	1
+Stefanos Tsitsipas	Lukas Klein	1
+Alex Molcan	Stefanos Tsitsipas	1
+Sho Shimabukuro	Yshai Oliel	1
+Daniel Cukierman	Shintaro Mochizuki	1
+Daniel Cukierman	Sho Shimabukuro	1
+Yshai Oliel	Shintaro Mochizuki	1
+Viktor Durasovic	Gonzalo Bueno	1
+Juan Pablo Varillas	Nicolai Budkov Kjaer	1
+Juan Pablo Varillas	Viktor Durasovic	1
+Ignacio Buse	Nicolai Budkov Kjaer	1
+Oleksii Krutykh	Nicolas Mejia	1
+Daniel Elahi Galan	Vladyslav Orlov	1
+Oleksii Krutykh	Daniel Elahi Galan	1
+Vladyslav Orlov	Nicolas Mejia	1
+Matheus Pucinelli De Almeida	Rigele Te	1
+Thiago Monteiro	Jie Cui	1
+Gustavo Heide	Rigele Te	1
+Holger Rune	Yuki Bhambri	1
+Sumit Nagal	August Holmgren	1
+Holger Rune	Sumit Nagal	1
+Prajnesh Gunneswaran	Elmer Moller	1
+Karlis Ozolins	Edan Leshem	1
+Ernests Gulbis	Daniel Cukierman	1
+Yshai Oliel	Robert Strombachs	1
+Daniel Cukierman	Karlis Ozolins	1
+Ricardas Berankis	Muhammad Shoaib	1
+Edas Butvilas	Aqeel Khan	1
+Vilius Gaubas	Mahammad Abid	1
+Gonzalo Bueno	Simon Carr	1
+Arklon Huertas Del Pino	Osgar Ohoisin	1
+Conner Huertas Del Pino	Michael Agwi	1
+Yuttana Charoenphon	Nicholas David Ionel	1
+Filip Cristian Jianu	Kasidit Samrej	1
+Nicholas David Ionel	Kasidit Samrej	1
+Filip Cristian Jianu	Yuttana Charoenphon	1
+Altug Celikbilek	Sebastian Dominko	1
+Cem Ilkel	Bor Artnak	1
+Ergi Kirkin	Matic Kriznik	1
+Vladyslav Orlov	Hady Habib	1
+Viacheslav Bielinskyi	Benjamin Hassan	1
+Benjamin Hassan	Oleksandr Ovcharenko	1
+Conor Gannon	Cesar Cruz	1
+Marcelo Arevalo	Osgar Ohoisin	1
+Osgar Ohoisin	Diego Duran	1
+Freddy Murray	Jose  Flores	1
+Robert Strombachs	Hong Kit Jack Wong	1
+Coleman Wong	Martins Rocens	1
+Robert Strombachs	Coleman Wong	1
+Ki Lung Ng	Daniels Tens	1
+Yassine Dlimi	Sasi Kumar Mukund	1
+Sumit Nagal	Adam Moundir	1
+Sumit Nagal	Yassine Dlimi	1
+Digvijaypratap Singh	Walid Ahouda	1
+Benjamin Hassan	Rowland Phillips	1
+Hady Habib	Blaise Bicknell	1
+Mustapha El Natour	Daniel Azar	1
+Rodrigo Pacheco Mendez	Fajing Sun	1
+Rigele Te	Ernesto Escobedo	1
+Ernesto Escobedo	Yi Zhou	1
+Alvaro Guillen Meza	Valentin Vacherot	1
+Lucas Catarina	Emilio Gomez	1
+Emilio Gomez	Valentin Vacherot	1
+Aqeel Khan	Gunawan Trismuwantara	1
+Aisam Ul Haq Qureshi	David Agung Susanto	1
+Aqeel Khan	David Agung Susanto	1
+Muhammad Shoaib	Gunawan Trismuwantara	1
+Alex Knaff	Bor Artnak	1
+Blaz Rola	Chris Rodesch	1
+Blaz Rola	Alex Knaff	1
+Chris Rodesch	Bor Artnak	1
+Mohamed Safwat	Ignacio Carou	1
+Karim Mohamed Maamoun	Franco Roncadelli	1
+Joaquin  Aguilar Cardozo 	Amr Elsayed Abdou Ahmed Mohamed	1
+Darian King	Clement Mainguy	1
+Colin Sinclair	Kaipo Marshall	1
+Darian King	Colin Sinclair	1
+Kaipo Marshall	Clement Mainguy	1
+Aleksandre Bakshi	Juan Carlos Prado Angelo	1
+Zura Tkemaladze	Raul Garcia	1
+Saba Purtseladze	Juan Carlos Prado Angelo	1
+Amr Elsayed Abdou Ahmed Mohamed	Hernando Jose Escurra Isnardi	1
+Daniel Vallejo	Mohamed Safwat	1
+Daniel Vallejo	Amr Elsayed Abdou Ahmed Mohamed	1
+Mohamed Safwat	Juan Borba	1
+Marcelo Arevalo	Karam Hatamleh	1
+Mousa Alkotop	Diego Duran	1
+Marcelo Arevalo	Mousa Alkotop	1
+Rowland Phillips	Kristjan Tamm	1
+Blaise Bicknell	Kenneth Raisma	1
+Blaise Bicknell	Kristjan Tamm	1
+Johannes Seeman	Jacob Bicknell	1
+Fitriadi M Rifqi	Minhtuan Pham	1
+Nam Hoang Ly	Anthony Susanto	1
+Nam Hoang Ly	Fitriadi M Rifqi	1
+Christopher Rungkat	Dac Tien Nguyen	1
+Alex Knaff	Alec Beckley	1
+Chris Rodesch	Kris Van Wyk	1
+Alex Knaff	Kris Van Wyk	1
+Raphael Calzi	Devin Badenhorst	1
+Petros Chrysochos	Skander Mansouri	1
+Moez Echargui	Menelaos Efstathiou	1
+Menelaos Efstathiou	Aziz Dougaz	1
+Moez Echargui	Petros Chrysochos	1
