@@ -6,4 +6,6 @@ The dataset that corresponds to this network is in [1]. Much information is pres
 
 Having said this, we will do a complete network analysis of this, starting with a cleaning process. We could build our network differently as we have many attributes and different networks could be performed, but this is the essential and principal focus of doing it, as we are interested in extracting value from metrics.
 
-Data adquired is from @JeffSackmann in https://github.com/JeffSackmann/tennis_atp/blob/master/atp_matches_2023.csv
+Data adquired is from @JeffSackmann
+
+[1] https://github.com/JeffSackmann/tennis_atp/blob/master/atp_matches_2023.csv
