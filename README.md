@@ -1,6 +1,6 @@
 # ATP_network_analysis
 
-Individual work developed in the fouth year of the data science degree in 2024
+Individual work developed in the fourth year of the data science degree in 2024
 
 This network is about the games played by men in the Professional Tennis Association in 2023. Every year, the tennis season includes lots of tournaments of different importance. There are 4 Grand Slams, which are the most important, then Master’s 1000, 500, 250, and other tournaments that give ATP points like national selections tournaments. So, the network is defined as players, de nodes, and games between them, the edges. It is an undirected graph in order that if a sportsman plays versus another, then an edge from one to the other is set. Also, there is a weighted graph that takes the number of games that both sportsmen have played versus each other.
 
